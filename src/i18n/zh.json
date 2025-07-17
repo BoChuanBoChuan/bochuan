@@ -1,0 +1,50 @@
+{
+  "title": "產品目錄",
+  "nav": {
+    "home": "首頁",
+    "about": "關於我們",
+    "products": "產品",
+    "services": "服務",
+    "contact": "聯絡我們"
+  },
+  "footer": {
+    "contact": "請撥打熱線電話：0908413588 - 0908181488，或發送郵件至 bochuanbochuan@gmail.com 以獲得諮詢服務"
+  },
+  "home": {
+    "title": "歡迎來到 BOCHUAN",
+    "description": "博川智慧科技有限公司專門提供智慧科技解決方案與先進包裝設備。我們致力於為客戶帶來高品質與信譽保障。"
+  },
+  "products": {
+    "title": "各類產品",
+    "maycatdan": "切割與封口機",
+    "maydaithung": "打包機",
+    "maydanthung": "紙箱封箱機",
+    "maymothung": "開箱機"
+  },
+  "about": {
+    "title": "關於我們",
+    "companyName": "博川智慧科技有限公司",
+    "intro": "博川智慧科技有限公司專門提供智慧科技解決方案與先進包裝設備。我們秉持品質與信譽至上，致力於協助企業推動自動化與現代化生產流程。",
+    "focus": "我們的專業領域包括：",
+    "services": [
+      "銷售與維修包裝機、震動盤、工業機器人",
+      "設計與建造非標準自動化生產線",
+      "提供設備：PLC、變頻器、伺服器、頻率轉換器",
+      "工業電氣設備與整合解決方案"
+    ],
+    "commitment": "我們始終致力於為客戶提供最優質的解決方案，提升生產效率與精確度。"
+  },
+  "contact": {
+    "title": "聯絡資訊",
+    "hoursTitle": "服務時間",
+    "weekdays": "週一至週六：上午 7:30 - 下午 5:00",
+    "sunday": "週日：休息",
+    "contactInfoTitle": "聯絡方式",
+    "contactInfo": "請撥打熱線電話：0908413588 - 0908181488 或發送郵件至 bochuanbochuan@gmail.com 以獲得諮詢服務。",
+    "visitUsTitle": "歡迎蒞臨我們的公司",
+    "address": "我們的地址：越南同奈省隆城縣安福社第5村C區第12組。我們誠摯歡迎您的到來！",
+    "socialTitle": "社交媒體",
+    "tiktok1": "TikTok 頻道 1",
+    "tiktok2": "TikTok 頻道 2"
+  }
+}

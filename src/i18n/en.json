@@ -1,0 +1,52 @@
+{
+  "title": "Product List",
+
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "products": "Products",
+    "services": "Services",
+    "contact": "Contact"
+  },
+  "footer": {
+    "contact": "Call our hotline: 0908413588 - 0908181488 or send an email to bochuanbochuan@gmail.com for support"
+  },
+
+  "home": {
+    "title": "Welcome to BOCHUAN",
+    "description": "BOCHUAN INTELLIGENT TECHNOLOGY COMPANY LIMITED specializes in providing smart technology solutions and advanced packaging equipment. We are committed to delivering quality and reliability to our customers."
+  },
+  "products": {
+    "title": "Products",
+    "maycatdan": "Cutting & Sealing Machine",
+    "maydaithung": "Strapping Machine",
+    "maydanthung": "Carton Sealing Machine",
+    "maymothung": "Carton Opener"
+  },
+  "about": {
+    "title": "About Us",
+    "companyName": "BOCHUAN INTELLIGENT TECHNOLOGY COMPANY LIMITED",
+    "intro": "Bochuan Intelligent Technology Co., Ltd specializes in providing intelligent technology solutions and advanced packaging equipment. With a strong commitment to quality and credibility, we accompany businesses on their journey toward automation and modernization.",
+    "focus": "We specialize in:",
+    "services": [
+      "Trading and maintenance of packaging machines, vibratory plates, industrial robots",
+      "Customized smart automated production lines",
+      "Supplying equipment: PLCs, inverters, servers, frequency converters",
+      "Industrial electrical devices and integrated solutions"
+    ],
+    "commitment": "We always strive to bring customers the most optimal solutions, improving efficiency and accuracy in production processes."
+  },
+  "contact": {
+    "title": "Contact Information",
+    "hoursTitle": "Working Hours",
+    "weekdays": "Monday to Saturday: 7:30 AM - 5:00 PM",
+    "sunday": "Sunday: Closed",
+    "contactInfoTitle": "Contact Details",
+    "contactInfo": "Call our hotline: 0908413588 - 0908181488 or email bochuanbochuan@gmail.com for consultation.",
+    "visitUsTitle": "Visit Us",
+    "address": "Our address: Group 12, Zone C, Hamlet 5, An Phuoc Commune, Long Thanh District, Dong Nai Province, Vietnam. We look forward to welcoming you!",
+    "socialTitle": "Social Media",
+    "tiktok1": "TikTok Channel 1",
+    "tiktok2": "TikTok Channel 2"
+  }
+}

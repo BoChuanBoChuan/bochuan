@@ -1,0 +1,50 @@
+{
+  "title": "Danh sách sản phẩm",
+  "nav": {
+    "home": "Trang chủ",
+    "about": "Giới thiệu",
+    "products": "Sản phẩm",
+    "services": "Dịch vụ",
+    "contact": "Liên hệ"
+  },
+  "footer": {
+    "contact": "Hãy gọi tới số Hotline: 0908413588 - 0908181488 hoặc gửi email tới bochuanbochuan@gmail.com để được tư vấn"
+  },
+  "home": {
+    "title": "Chào mừng đến với BOCHUAN",
+    "description": "BOCHUAN INTELLIGENT TECHNOLOGY COMPANY LIMITED chuyên cung cấp các giải pháp công nghệ thông minh và thiết bị đóng gói tiên tiến. Chúng tôi cam kết mang đến chất lượng và uy tín cho khách hàng."
+  },
+  "products": {
+    "title": "Các sản phẩm",
+    "maycatdan": "Máy cắt dán",
+    "maydaithung": "Máy đai thùng",
+    "maydanthung": "Máy dán thùng",
+    "maymothung": "Máy mổ thùng"
+  },
+  "about": {
+    "title": "Giới thiệu về chúng tôi",
+    "companyName": "CÔNG TY TNHH CÔNG NGHỆ THÔNG MINH BOCHUAN",
+    "intro": "Bochuan Intelligent Technology Co., Ltd là đơn vị chuyên cung cấp giải pháp công nghệ thông minh và thiết bị đóng gói tiên tiến. Với cam kết đặt chất lượng và uy tín lên hàng đầu, chúng tôi đồng hành cùng doanh nghiệp trong hành trình tự động hoá và hiện đại hoá sản xuất.",
+    "focus": "Chúng tôi chuyên:",
+    "services": [
+      "Mua bán và sửa chữa máy đóng gói, mâm rung, robot công nghiệp",
+      "Dây chuyền sản xuất tự động hoá phi tiêu chuẩn",
+      "Cung cấp thiết bị: PLC, biến tần, máy chủ, bộ chuyển đổi tần số",
+      "Thiết bị điện công nghiệp và giải pháp tích hợp"
+    ],
+    "commitment": "Chúng tôi luôn nỗ lực mang đến cho khách hàng những giải pháp tối ưu nhất, nâng cao hiệu quả và độ chính xác trong quá trình sản xuất."
+  },
+  "contact": {
+    "title": "Thông tin liên hệ",
+    "hoursTitle": "Giờ phục vụ",
+    "weekdays": "Thứ 2 đến Thứ 7: 7 giờ 30 phút - 17 giờ",
+    "sunday": "Chủ nhật: Đóng cửa",
+    "contactInfoTitle": "Thông tin liên hệ",
+    "contactInfo": "Hãy gọi tới số Hotline: 0908413588 - 0908181488 hoặc gửi email tới bochuanbochuan@gmail.com để được tư vấn.",
+    "visitUsTitle": "Hãy ghé thăm chúng tôi",
+    "address": "Địa chỉ của chúng tôi là tại tổ 12, khu C, ấp 5, xã An Phước, Long Thành, Đồng Nai, Việt Nam. Chúng tôi rất mong được đón chào quý khách!",
+    "socialTitle": "Mạng xã hội",
+    "tiktok1": "Kênh TikTok 1",
+    "tiktok2": "Kênh TikTok 2"
+  }
+}
