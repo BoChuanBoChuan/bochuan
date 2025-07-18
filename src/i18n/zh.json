@@ -1,50 +1,50 @@
 {
-  "title": "產品目錄",
+  "title": "产品目录",
   "nav": {
-    "home": "首頁",
-    "about": "關於我們",
-    "products": "產品",
-    "services": "服務",
-    "contact": "聯絡我們"
+    "home": "首页",
+    "about": "关于我们",
+    "products": "产品",
+    "services": "服务",
+    "contact": "联系我们"
   },
   "footer": {
-    "contact": "請撥打熱線電話：0908413588 - 0908181488，或發送郵件至 bochuanbochuan@gmail.com 以獲得諮詢服務"
+    "contact": "请拨打热线电话：0908413588 - 0908181488，或发送邮件至 bochuanbochuan@gmail.com 以获得咨询服务"
   },
   "home": {
-    "title": "歡迎來到 BOCHUAN",
-    "description": "博川智慧科技有限公司專門提供智慧科技解決方案與先進包裝設備。我們致力於為客戶帶來高品質與信譽保障。"
+    "title": "欢迎来到 BOCHUAN",
+    "description": "博川智慧科技有限公司专门提供智慧科技解决方案与先进包装设备。我们致力于为客户带来高品质与信誉保障。"
   },
   "products": {
-    "title": "各類產品",
-    "maycatdan": "切割與封口機",
-    "maydaithung": "打包機",
-    "maydanthung": "紙箱封箱機",
-    "maymothung": "開箱機"
+    "title": "各类产品",
+    "maycatdan": "切割与封口机",
+    "maydaithung": "打包机",
+    "maydanthung": "纸箱封箱机",
+    "maymothung": "开箱机"
   },
   "about": {
-    "title": "關於我們",
+    "title": "关于我们",
     "companyName": "博川智慧科技有限公司",
-    "intro": "博川智慧科技有限公司專門提供智慧科技解決方案與先進包裝設備。我們秉持品質與信譽至上，致力於協助企業推動自動化與現代化生產流程。",
-    "focus": "我們的專業領域包括：",
+    "intro": "博川智慧科技有限公司专门提供智慧科技解决方案与先进包装设备。我们秉持品质与信誉至上，致力于协助企业推动自动化与现代化生产流程。",
+    "focus": "我们的专业领域包括：",
     "services": [
-      "銷售與維修包裝機、震動盤、工業機器人",
-      "設計與建造非標準自動化生產線",
-      "提供設備：PLC、變頻器、伺服器、頻率轉換器",
-      "工業電氣設備與整合解決方案"
+      "销售与维修包装机、震动盘、工业机器人",
+      "设计与建造非标准自动化生产线",
+      "提供设备：PLC、变频器、伺服器、频率转换器",
+      "工业电气设备与整合解决方案"
     ],
-    "commitment": "我們始終致力於為客戶提供最優質的解決方案，提升生產效率與精確度。"
+    "commitment": "我们始终致力于为客户提供最优质的解决方案，提升生产效率与精确度。"
   },
   "contact": {
-    "title": "聯絡資訊",
-    "hoursTitle": "服務時間",
-    "weekdays": "週一至週六：上午 7:30 - 下午 5:00",
-    "sunday": "週日：休息",
-    "contactInfoTitle": "聯絡方式",
-    "contactInfo": "請撥打熱線電話：0908413588 - 0908181488 或發送郵件至 bochuanbochuan@gmail.com 以獲得諮詢服務。",
-    "visitUsTitle": "歡迎蒞臨我們的公司",
-    "address": "我們的地址：越南同奈省隆城縣安福社第5村C區第12組。我們誠摯歡迎您的到來！",
-    "socialTitle": "社交媒體",
-    "tiktok1": "TikTok 頻道 1",
-    "tiktok2": "TikTok 頻道 2"
+    "title": "联系信息",
+    "hoursTitle": "服务时间",
+    "weekdays": "周一至周六：早上 7:30 - 下午 5:00",
+    "sunday": "周日：休息",
+    "contactInfoTitle": "联系方式",
+    "contactInfo": "请拨打热线电话：0908413588 - 0908181488 或发送邮件至 bochuanbochuan@gmail.com 以获得咨询服务。",
+    "visitUsTitle": "欢迎莅临我们的公司",
+    "address": "我们的地址：越南同奈省隆城县安福社第5村C区第12组。我们诚挚欢迎您的到来！",
+    "socialTitle": "社交媒体",
+    "tiktok1": "TikTok 频道 1",
+    "tiktok2": "TikTok 频道 2"
   }
 }
