@@ -64,7 +64,7 @@ export default function Products() {
           <div
             key={category}
             ref={sectionRef}
-            className={`transition-all duration-700 ease-out transform ${
+            className={`transition-all duration-700 ease-out transform  ${
               sectionVisible
                 ? "opacity-100 translate-y-0"
                 : "opacity-0 translate-y-8"
@@ -82,7 +82,7 @@ export default function Products() {
                   <div
                     key={device.id}
                     ref={cardRef}
-                    className={`transition-all duration-700 ease-out transform ${
+                    className={`transition-all duration-700 ease-out transform  cursor-pointer ${
                       cardVisible
                         ? "opacity-100 translate-y-0"
                         : "opacity-0 translate-y-8"
