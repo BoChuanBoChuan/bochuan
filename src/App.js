@@ -10,6 +10,7 @@ import About from "./pages/about/About";
 import Products from "./pages/products/Products";
 import Services from "./pages/services/Services";
 import Contact from "./pages/contact/Contact";
+import ProductDetail from "./pages/products/ProductDetail"; 
 
 export default function App() {
   const { i18n } = useTranslation();
@@ -24,6 +25,7 @@ export default function App() {
         <Route path="/products" element={<Products />} />
         <Route path="/services" element={<Services />} />
         <Route path="/contact" element={<Contact />} />
+        <Route path="/products/:id" element={<ProductDetail />} />
       </Routes>
       <Footer />
     </Router>

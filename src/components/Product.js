@@ -1,52 +1,18 @@
 import { useState } from "react";
 import { FaChevronLeft, FaChevronRight } from "react-icons/fa";
 import { useTranslation } from "react-i18next";
+import { useNavigate } from "react-router-dom";
 
-// Import ảnh thật từ thư mục sản phẩm (giữ nguyên import ảnh của bạn)
-import maycatdan1 from "../assets/img/product/maycatdan1.jpg";
-import maydaithung1 from "../assets/img/product/maydaithung1.jpg";
-import maydaithung2 from "../assets/img/product/maydaithung2.jpg";
-import maydaithung3 from "../assets/img/product/maydaithung3.jpg";
-import maydaithung4 from "../assets/img/product/maydaithung4.jpg";
-import maydaithung5 from "../assets/img/product/maydaithung5.jpg";
-import maydaithung6 from "../assets/img/product/maydaithung6.jpg";
-import maydanthung1 from "../assets/img/product/maydanthung1.jpg";
-import maydanthung2 from "../assets/img/product/maydanthung2.jpg";
-import maydanthung3 from "../assets/img/product/maydanthung3.jpg";
-import maydanthung4 from "../assets/img/product/maydanthung4.jpg";
-import maydanthung5 from "../assets/img/product/maydanthung5.jpg";
-import maydanthung6 from "../assets/img/product/maydanthung6.jpg";
-import maymothung1 from "../assets/img/product/maymothung1.jpg";
-import maymothung2 from "../assets/img/product/maymothung2.jpg";
-import maymothung4 from "../assets/img/product/maymothung4.jpg";
-import maymothung5 from "../assets/img/product/maymothung5.jpg";
-
-const devices = [
-  { id: 1, name: "maycatdan", image: maycatdan1 },
-  { id: 2, name: "maydaithung", image: maydaithung1 },
-  { id: 3, name: "maydaithung", image: maydaithung2 },
-  { id: 4, name: "maydaithung", image: maydaithung3 },
-  { id: 5, name: "maydaithung", image: maydaithung4 },
-  { id: 6, name: "maydaithung", image: maydaithung5 },
-  { id: 7, name: "maydaithung", image: maydaithung6 },
-  { id: 8, name: "maydanthung", image: maydanthung1 },
-  { id: 9, name: "maydanthung", image: maydanthung2 },
-  { id: 10, name: "maydanthung", image: maydanthung3 },
-  { id: 11, name: "maydanthung", image: maydanthung4 },
-  { id: 12, name: "maydanthung", image: maydanthung5 },
-  { id: 13, name: "maydanthung", image: maydanthung6 },
-  { id: 14, name: "maymothung", image: maymothung1 },
-  { id: 15, name: "maymothung", image: maymothung2 },
-  { id: 16, name: "maymothung", image: maymothung4 },
-  { id: 17, name: "maymothung", image: maymothung5 },
-];
+// Dữ liệu từ ProductsData
+import { devices } from "../data/ProductsData";
 
 const ITEMS_PER_PAGE = 4;
 const totalPages = Math.ceil(devices.length / ITEMS_PER_PAGE);
 
-export default function DeviceCarousel() {
+export default function Product() {
   const [currentPage, setCurrentPage] = useState(0);
   const { t } = useTranslation();
+  const navigate = useNavigate(); // <-- Thêm navigate ở đây
 
   const prevPage = () => {
     setCurrentPage((prev) => (prev - 1 + totalPages) % totalPages);
@@ -70,13 +36,14 @@ export default function DeviceCarousel() {
           {[...Array(totalPages)].map((_, pageIndex) => (
             <div
               key={pageIndex}
-              className="grid w-full grid-cols-1 gap-6 px-4 py-4  md:grid-cols-1 lg:grid-cols-4"
+              className="grid w-full grid-cols-1 gap-6 px-4 py-4 md:grid-cols-2 lg:grid-cols-4"
             >
               {devices
                 .slice(pageIndex * ITEMS_PER_PAGE, (pageIndex + 1) * ITEMS_PER_PAGE)
                 .map((device) => (
                   <div
                     key={device.id}
+                    onClick={() => navigate(`/products/${device.id}`)} // <-- Điều hướng khi click
                     className="p-4 text-center transition transform bg-white border rounded shadow cursor-pointer hover:shadow-md hover:scale-105"
                   >
                     <img

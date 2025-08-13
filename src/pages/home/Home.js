@@ -2,6 +2,8 @@ import { useTranslation } from "react-i18next";
 import BannerCarousel from "../../components/BannerCarousel";
 import Products from "../../components/Product";
 import { useFadeInOnScroll } from "../../hook/useFadeInOnScroll";
+import robot from "../../assets/img/maymocthaytheconnguoi.png"
+
 
 export default function Home() {
   const { t } = useTranslation();
@@ -32,6 +34,22 @@ export default function Home() {
         <p className="max-w-2xl mx-auto text-lg text-gray-700">
           {t("home.description")}
         </p>
+
+
+        
+          <div className="mt-16 text-center">
+        <div className="inline-block w-full max-w-2xl overflow-hidden rounded-lg shadow-md aspect-video">
+          <img
+            src={robot}
+            alt="Máy móc thay thế con người"
+            className="object-cover w-full h-full"
+            loading="lazy"
+          />
+        </div>
+        <p className="mt-3 text-sm italic text-gray-600">
+            {t("home.description_img")}
+        </p>
+      </div>
       </main>
     </div>
   );

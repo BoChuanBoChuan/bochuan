@@ -1,11 +1,20 @@
 import { useState, useEffect } from "react";
-import banner1 from "../assets/img/banner/banner1.jpg";
-import banner2 from "../assets/img/banner/banner2.jpg";
-import banner3 from "../assets/img/banner/banner3.jpg";
-import banner4 from "../assets/img/banner/banner4.jpg";
+// import banner1 from "../assets/img/banner/banner1.jpg";
+// import banner2 from "../assets/img/banner/banner2.jpg";
+// import banner3 from "../assets/img/banner/banner3.jpg";
+// import banner4 from "../assets/img/banner/banner4.jpg";
+// import banner5 from "../assets/img/banner/banner5.png";
+// import banner6 from "../assets/img/banner/banner6.png";
+import banner7 from "../assets/img/banner/banner7.png";
+import banner1 from "../assets/img/banner/1.png";
+import banner2 from "../assets/img/banner/2.png";
+import banner3 from "../assets/img/banner/3.png";
+
+
+
 import { FaChevronLeft, FaChevronRight } from "react-icons/fa";
 
-const banners = [banner1, banner2, banner3, banner4];
+const banners = [banner1, banner2, banner3];
 
 export default function BannerCarousel() {
   const [current, setCurrent] = useState(0);

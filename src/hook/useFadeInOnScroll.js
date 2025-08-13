@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from "react";
 
-export function useFadeInOnScroll(threshold = 0.3) {
+export function useFadeInOnScroll(threshold = 0.1, rootMargin = "0px 0px -10% 0px") {
   const ref = useRef(null);
   const [visible, setVisible] = useState(false);
 
@@ -15,7 +15,7 @@ export function useFadeInOnScroll(threshold = 0.3) {
           observer.disconnect();
         }
       },
-      { threshold }
+      { threshold, rootMargin }
     );
 
     observer.observe(el);
@@ -23,7 +23,7 @@ export function useFadeInOnScroll(threshold = 0.3) {
     return () => {
       observer.disconnect();
     };
-  }, [threshold]);
+  }, [threshold, rootMargin]);
 
   return [ref, visible];
 }

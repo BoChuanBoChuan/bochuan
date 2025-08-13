@@ -14,27 +14,152 @@
 
   "home": {
     "title": "Welcome to BOCHUAN",
-    "description": "BOCHUAN INTELLIGENT TECHNOLOGY COMPANY LIMITED specializes in providing smart technology solutions and advanced packaging equipment. We are committed to delivering quality and reliability to our customers."
+    "description": "Bochuan Intelligent Technology Company Limited is a technology-driven enterprise specializing in the research, development, production, and manufacturing of non-standard intelligent automation and vibratory bowl machinery equipment.\nOur developed automatic feeding vibratory bowls, intelligent automatic assembly machines, and multiple labor-replacing research products are essential devices widely used in various industries including light industry, electronics, electrical tools, hardware, medical, component assembly, automatic stamping machines, plastic inserts, food packaging, office supplies, toys, and many others.\nThe company currently has teams dedicated to research, management, production, and sales, and is in a rapid growth phase, actively recruiting high-tech talent to help factories and individuals achieve the goals of machinery replacing manual labor, cost reduction, and efficiency improvement.",
+    "description_img": "Machines replacing humans in high-risk positions, reducing labor and optimizing production."
   },
   "products": {
     "title": "Products",
+
+    "nonStandardAutomation": "Non-standard automation equipment",
+    "standardAutomation": "Standard machine automation",
+    "vibratingBowl": "Vibrating bowl",
+    "detail_title": "Product Details",
     "maycatdan": "Cutting & Sealing Machine",
     "maydaithung": "Strapping Machine",
     "maydanthung": "Carton Sealing Machine",
-    "maymothung": "Carton Opener"
+    "maymothung": "Carton Opener",
+    "robot6truc": "6-axis articulated robot",
+    "mayquanmangtudong": "Automatic Wrapping Machine",
+    "tramrobot": "Collaborative Robot Palletizing Workstation Equipment",
+    "maydannhantudong": "Automatic Labeling Machine",
+    "maysietvitbantudong1": "Semi-automatic production line screw fastening machine",
+    "maydonggoicattudong": "Automatic Sealing and Cutting Machine",
+
+    "maydonggoicattudong1": "Automatic L-type Sealing and Cutting Machine",
+    "maydonggoicattudong2": "Automatic Side Sealing Machine",
+
+    "mayconhiettudong": "Automatic Heat Shrink Machine",
+    "mayconhiettudongkieuphunkhi": "Jet-Type Automatic Heat Shrink Machine",
+    "mayconhiettudongkieutuanhoantrong": "Internal Circulation Heat Shrink Machine",
+
+    "maysietvittudongtoado": "Coordinate Type Automatic Screw Locking Machine",
+    "maysietvittudongtoado1": "Large Single-Platform Coordinate Screw Locking Machine",
+    "maysietvittudongtoado2": "Large Double-Platform Coordinate Screw Locking Machine",
+    "maysietvittudongtoado3": "Standalone Vertical Screw Locking Machine with Single Feeder",
+    "mamrung": "Vibratory bowl feeder",
+
+    "mayquanmangtudong1": "Rotary Table Stretch Wrapping Machine",
+    "mayquanmangtudong2": "Integrated Conveyor Rotary Table Automatic Wrapping Machine",
+    "maydanthung1": "Corner Sealing Carton Sealer",
+    "maydanthung2": "Automatic Carton Flap Folding and Sealing Machine",
+    "maymothung1": "Dual Flap Automatic Carton Erector",
+    "maydannhantudong1": "Online Automatic Labeling Machine",
+
+    "daychuyentruyendong": "Dual-speed Chain Intelligent Conveyor Line",
+    "canhtayrobotcaplieu": "Injection Molding Robot Arm for Loading and Unloading",
+    "thietbilapraptudonghoatuychinh": "Customized Non-standard Automated Assembly Equipment",
+    "maytudonghoathietketheoyeucau": "Custom-designed Non-standard Automation Equipment",
+    "robttruccautudongnapgap": "Gantry Robot Arm for Automatic Loading and Unloading",
+
+    "daychuyenphanloai": "Automated sorting production line - non-standard custom design",
+    "daychuyendanthung": "Intelligent carton sealing conveyor line at the final stage",
+
+    "descriptions": {
+      "daychuyendanthung": "The intelligent carton sealing conveyor line is a crucial part of the final stage in the product packaging process. This system is designed to automatically seal cartons quickly, accurately, and uniformly, saving time, reducing labor, and minimizing errors caused by manual operations.\nWith stable operation and flexible integration with other equipment in the production line, the intelligent sealing system helps improve overall efficiency, ensuring products are securely and aesthetically packaged before transportation or storage.",
+      "daychuyenphanloai": "We design custom automated sorting systems tailored to specific requirements, helping businesses achieve greater flexibility in production and quality control.",
+      "maycatdan": "The automatic cutting and pasting machine is designed to continuously perform cutting, pasting, and finishing operations on a variety of materials. The equipment operates stably, helping to improve productivity, reduce labor dependency, and ensure consistency in every finished detail.\nWith a high level of automation, the machine is suitable for industries such as packaging, labeling, electronics, thermal insulation materials, medical products, and various other industrial sectors. Its compact design makes it easy to install and operate, fitting well with many modern production models.",
+      "robot6truc1": "The 6-axis articulated robot is a highly flexible automation device designed with six joints that mimic the movements of a human arm.\nThanks to its multi-axis structure, the robot can operate in 3D space with high precision and speed.\nIt is widely applied in welding, assembly, pick-and-place tasks, packaging, quality inspection, and CNC machining.\nWith versatile programming capabilities, smart sensor integration, and stable operation, this robot is an optimal solution for increasing productivity, reducing labor costs, and ensuring consistent production quality.",
+      "robot6truc2": "The 6-axis articulated robot is a highly flexible automation device designed with six joints that mimic the movements of a human arm.\nThanks to its multi-axis structure, the robot can operate in 3D space with high precision and speed.\nIt is widely applied in welding, assembly, pick-and-place tasks, packaging, quality inspection, and CNC machining.\nWith versatile programming capabilities, smart sensor integration, and stable operation, this robot is an optimal solution for increasing productivity, reducing labor costs, and ensuring consistent production quality.",
+      "maydaithung1": "The automatic strapping machine is a specialized device used in packaging, allowing fully automatic strapping without manual operation.\nThe machine automatically detects the carton position, tightens the strap, cuts the strap, and ejects the carton within seconds, ensuring high speed and uniform strap tension.\nThis equipment is suitable for use in industrial packaging lines, helping save labor, improve productivity, and maintain the aesthetic quality of packages.\nThe machine supports various types of straps, with adjustable tension and speed according to requirements, operates stably, and is easy to maintain.",
+      "maydaithung2": "The automatic strapping machine is a specialized device used in packaging, allowing fully automatic strapping without manual operation.\nThe machine automatically detects the carton position, tightens the strap, cuts the strap, and ejects the carton within seconds, ensuring high speed and uniform strap tension.\nThis equipment is suitable for use in industrial packaging lines, helping save labor, improve productivity, and maintain the aesthetic quality of packages.\nThe machine supports various types of straps, with adjustable tension and speed according to requirements, operates stably, and is easy to maintain.",
+      "maydaithung3": "The automatic strapping machine is a specialized device used in packaging, allowing fully automatic strapping without manual operation.\nThe machine automatically detects the carton position, tightens the strap, cuts the strap, and ejects the carton within seconds, ensuring high speed and uniform strap tension.\nThis equipment is suitable for use in industrial packaging lines, helping save labor, improve productivity, and maintain the aesthetic quality of packages.\nThe machine supports various types of straps, with adjustable tension and speed according to requirements, operates stably, and is easy to maintain.",
+      "maydaithung4": "The automatic strapping machine is a specialized device used in packaging, allowing fully automatic strapping without manual operation.\nThe machine automatically detects the carton position, tightens the strap, cuts the strap, and ejects the carton within seconds, ensuring high speed and uniform strap tension.\nThis equipment is suitable for use in industrial packaging lines, helping save labor, improve productivity, and maintain the aesthetic quality of packages.\nThe machine supports various types of straps, with adjustable tension and speed according to requirements, operates stably, and is easy to maintain.",
+      "maydaithung5": "The automatic strapping machine is a specialized device used in packaging, allowing fully automatic strapping without manual operation.\nThe machine automatically detects the carton position, tightens the strap, cuts the strap, and ejects the carton within seconds, ensuring high speed and uniform strap tension.\nThis equipment is suitable for use in industrial packaging lines, helping save labor, improve productivity, and maintain the aesthetic quality of packages.\nThe machine supports various types of straps, with adjustable tension and speed according to requirements, operates stably, and is easy to maintain.",
+      "maydaithung6": "The automatic strapping machine is a specialized device used in packaging, allowing fully automatic strapping without manual operation.\nThe machine automatically detects the carton position, tightens the strap, cuts the strap, and ejects the carton within seconds, ensuring high speed and uniform strap tension.\nThis equipment is suitable for use in industrial packaging lines, helping save labor, improve productivity, and maintain the aesthetic quality of packages.\nThe machine supports various types of straps, with adjustable tension and speed according to requirements, operates stably, and is easy to maintain.",
+      "maydaithung7": "The automatic strapping machine is a specialized device used in packaging, allowing fully automatic strapping without manual operation.\nThe machine automatically detects the carton position, tightens the strap, cuts the strap, and ejects the carton within seconds, ensuring high speed and uniform strap tension.\nThis equipment is suitable for use in industrial packaging lines, helping save labor, improve productivity, and maintain the aesthetic quality of packages.\nThe machine supports various types of straps, with adjustable tension and speed according to requirements, operates stably, and is easy to maintain.",
+
+      "maydanthung1": "The automatic carton sealing machine is a specialized device in the packaging process, allowing quick and secure sealing of cartons without manual operation.\nThe machine automatically detects the carton position, performs sealing and completes the product in a short time, ensuring high working speed and consistent sealing quality.\nThis equipment is suitable for industrial packaging lines, helping to save labor, improve production efficiency, and maintain the aesthetic appearance of packages.\nThe machine allows adjustable sealing pressure and speed, operates stably, and is easy to maintain.",
+      "maydanthung2": "The automatic carton sealing machine is a specialized device in the packaging process, allowing quick and secure sealing of cartons without manual operation.\nThe machine automatically detects the carton position, performs sealing and completes the product in a short time, ensuring high working speed and consistent sealing quality.\nThis equipment is suitable for industrial packaging lines, helping to save labor, improve production efficiency, and maintain the aesthetic appearance of packages.\nThe machine allows adjustable sealing pressure and speed, operates stably, and is easy to maintain.",
+      "maydanthung3": "The automatic carton sealing machine is a specialized device in the packaging process, allowing quick and secure sealing of cartons without manual operation.\nThe machine automatically detects the carton position, performs sealing and completes the product in a short time, ensuring high working speed and consistent sealing quality.\nThis equipment is suitable for industrial packaging lines, helping to save labor, improve production efficiency, and maintain the aesthetic appearance of packages.\nThe machine allows adjustable sealing pressure and speed, operates stably, and is easy to maintain.",
+      "maydanthung4": "The automatic carton sealing machine is a specialized device in the packaging process, allowing quick and secure sealing of cartons without manual operation.\nThe machine automatically detects the carton position, performs sealing and completes the product in a short time, ensuring high working speed and consistent sealing quality.\nThis equipment is suitable for industrial packaging lines, helping to save labor, improve production efficiency, and maintain the aesthetic appearance of packages.\nThe machine allows adjustable sealing pressure and speed, operates stably, and is easy to maintain.",
+      "maydanthung5": "The automatic carton sealing machine is a specialized device in the packaging process, allowing quick and secure sealing of cartons without manual operation.\nThe machine automatically detects the carton position, performs sealing and completes the product in a short time, ensuring high working speed and consistent sealing quality.\nThis equipment is suitable for industrial packaging lines, helping to save labor, improve production efficiency, and maintain the aesthetic appearance of packages.\nThe machine allows adjustable sealing pressure and speed, operates stably, and is easy to maintain.",
+      "maydanthung6": "The corner carton sealing machine is a specialized device used in packaging lines. Its function is to apply tape to the side corners of cartons after the top and bottom have been sealed.\nThis machine enhances carton durability and provides better protection for goods during transportation and storage.\nIt is commonly used in industries such as electronics, food, pharmaceuticals, and consumer goods.\n\nThe machine operates in automatic or semi-automatic modes and can be integrated with other carton sealing machines in a production line.\nWith its robust design, stable operation, and easy adjustments, the corner sealing machine is an ideal solution for improving packaging efficiency and professionalism.",
+
+      "maymothung1": "The double-door carton opener is an advanced industrial machine designed to automatically and efficiently open carton flaps. Equipped with an intelligent operating mechanism, it can handle a wide range of carton sizes without causing damage to the cartons or their contents. This equipment optimizes packaging processes by reducing manual labor and saving time, thereby improving production efficiency and product quality. It is ideal for factories and enterprises with modern packaging lines that demand high speed and precision in their operations.",
+      "maymothung2": "The automatic carton opening machine quickly and precisely opens cartons without manual operation.\nThe machine automatically detects the carton position, opens cartons consistently, preparing products for the next stages.\nThe machine helps save labor, improve efficiency, and ensure operational safety.\nIt is easy to adjust, operates reliably, and is convenient for maintenance.",
+      "maymothung4": "The automatic carton opening machine quickly and precisely opens cartons without manual operation.\nThe machine automatically detects the carton position, opens cartons consistently, preparing products for the next stages.\nThe machine helps save labor, improve efficiency, and ensure operational safety.\nIt is easy to adjust, operates reliably, and is convenient for maintenance.",
+      "maymothung5": "The automatic carton opening machine quickly and precisely opens cartons without manual operation.\nThe machine automatically detects the carton position, opens cartons consistently, preparing products for the next stages.\nThe machine helps save labor, improve efficiency, and ensure operational safety.\nIt is easy to adjust, operates reliably, and is convenient for maintenance.",
+      "mayquanmangtudong1": "The stretch wrapping machine operates by using a turntable motor to rotate the cargo while the film carriage moves up and down through a lift motor. Combined with photoelectric sensors for positioning and adjustable rotation speed, the machine ensures uniform spiral wrapping and precise tension control over the surface of the goods.\nBy automating the wrapping process, the machine stabilizes and secures packages, providing protection against dust, moisture, and impacts, while also ensuring transport safety. It is suitable for various packaging scenarios such as pallets, cantilever loads, and ring-shaped objects. Adjustable tension, photoelectric positioning, and multi-layer reinforcement help improve packaging efficiency and material utilization.",
+      "mayquanmangtudong2": "The stretch wrapping machine operates by using a turntable motor to rotate the cargo while the film carriage moves up and down through a lift motor. Combined with photoelectric sensors for positioning and adjustable rotation speed, the machine ensures uniform spiral wrapping and precise tension control over the surface of the goods.\nBy automating the wrapping process, the machine stabilizes and secures packages, providing protection against dust, moisture, and impacts, while also ensuring transport safety. It is suitable for various packaging scenarios such as pallets, cantilever loads, and ring-shaped objects. Adjustable tension, photoelectric positioning, and multi-layer reinforcement help improve packaging efficiency and material utilization.",
+      "mayquanmangtudong3": "The stretch wrapping machine operates by using a turntable motor to rotate the cargo while the film carriage moves up and down through a lift motor. Combined with photoelectric sensors for positioning and adjustable rotation speed, the machine ensures uniform spiral wrapping and precise tension control over the surface of the goods.\nBy automating the wrapping process, the machine stabilizes and secures packages, providing protection against dust, moisture, and impacts, while also ensuring transport safety. It is suitable for various packaging scenarios such as pallets, cantilever loads, and ring-shaped objects. Adjustable tension, photoelectric positioning, and multi-layer reinforcement help improve packaging efficiency and material utilization.",
+      "tramrobot1": "Simple operation, one-button start, stable – efficient – reliable – durable\nSupports multiple palletizing formulas, plug-and-play operation, easy to learn and understand\nCompact footprint, mobile flexibility, safety mechanism, no protective fence required\nHighly automated system, low power consumption, reduced labor demand",
+      "maydannhantudong1": "The automatic labeling machine detects the product’s position through sensors and activates the control system to synchronize the label tape peeling with product conveying. It uses a labeling roller to apply precise pressure, ensuring accurate label adhesion. Combined with tension adjustment and the label pressing device, it guarantees firm and flat attachment.Through automatic peeling, positioning, and precise label application, the machine achieves efficient and standardized labeling across various industries. It ensures accurate label placement without air bubbles, and is suitable for flat, curved, and irregular packaging surfaces. At the same time, it enhances production efficiency, reduces human error, and strengthens brand image and overall value.",
+      "maydannhantudong2": "The automatic labeling machine detects the product’s position through sensors and activates the control system to synchronize the label tape peeling with product conveying. It uses a labeling roller to apply precise pressure, ensuring accurate label adhesion. Combined with tension adjustment and the label pressing device, it guarantees firm and flat attachment.Through automatic peeling, positioning, and precise label application, the machine achieves efficient and standardized labeling across various industries. It ensures accurate label placement without air bubbles, and is suitable for flat, curved, and irregular packaging surfaces. At the same time, it enhances production efficiency, reduces human error, and strengthens brand image and overall value.",
+      "maysietvitbantudong1": "The automatic screw tightening machine for production lines is researched and designed based on the foundation of ordinary production lines,\nin order to enhance automatic product positioning and screw tightening methods in various styles.\nBased on the complexity of the product and the number of workpieces,\ncorresponding modules can be added to achieve semi-automatic or fully automatic production line solutions.\nOnly minimal human involvement is required to achieve full production line operation,\nwhich lowers costs and broadens the scope of application.\nAs the functionality continues to improve, the production line type develops into semi-automatic production lines, large customized production lines,\nfully automatic production lines, and various special customized models,\nrealizing automated screw tightening solutions to meet different product types and production efficiency demands.",
+      "maydonggoicattudong1": "The automatic sealing and cutting machine utilizes an automated feeding and positioning system to deliver packaging materials to the sealing and cutting station. Through heating components, the shrink film is melted and sealed under pressure. A precision cutting system then completes the cutting process, ensuring efficient, airtight, and neat packaging.\nThis equipment enables a high-efficiency packaging line that accommodates products of various sizes across multiple industries. It ensures that the packaging is visually appealing and securely sealed while significantly reducing labor costs and transportation losses.",
+      "maydonggoicattudong2": "The automatic sealing and cutting machine utilizes an automated feeding and positioning system to deliver packaging materials to the sealing and cutting station. Through heating components, the shrink film is melted and sealed under pressure. A precision cutting system then completes the cutting process, ensuring efficient, airtight, and neat packaging.\nThis equipment enables a high-efficiency packaging line that accommodates products of various sizes across multiple industries. It ensures that the packaging is visually appealing and securely sealed while significantly reducing labor costs and transportation losses.",
+      "mayconhietkieuphunkhi1": "The automatic jet-type heat shrink machine uses high-speed hot air jets to tightly shrink the film around the product. It operates efficiently at high speed, ensuring a neat, professional, and aesthetically pleasing finish. Commonly used in packaging lines for food, cosmetics, gift boxes, books, etc., and compatible with shrink films like POF and PVC.",
+      "mayconhietkieutuanhoantrong1": "MThe internal circulation heat shrink machine uses a hot air circulation system inside the chamber to shrink the film evenly around the product. Its uniform heat distribution ensures tight, attractive wrapping without deformation. The machine runs reliably and is energy-efficient, suitable for various shrink films like POF, PVC, and PE. It is widely used in packaging applications for food, cosmetics, books, gift boxes, and more.",
+
+      "maysietvittudongtoado1": "The large single-table coordinate screw tightening machine is designed with an extended working stroke and a large-sized operating platform, suitable for assembling products with complex structures or large dimensions. With a high torque capacity, it easily handles large screws or positions requiring strong fastening force, ensuring stability and reliability. The X/Y/Z three-axis positioning system combined with flexible programming allows for efficient batch production.",
+
+      "maysietvittudongtoado2": "The large double-table coordinate screw tightening machine is specially designed for production lines with high demands on product size and continuous operation. Equipped with dual worktables operating alternately, it significantly reduces waiting time and boosts productivity. The machine can be customized in size, stroke, and screw quantity according to user requirements. It is an ideal solution for factories seeking high-speed, high-precision automated screw tightening.",
+
+      "maysietvittudongtoado3": "The vertical single-feeder screw tightening machine is an optimal choice for applications that require high speed and efficiency in a compact space. Its vertical design saves floor space and improves accessibility to tightening points, while the automatic screw feeding system ensures consistent and continuous operation. With high performance and cost-effectiveness, this device is well-suited for assembly lines of electronic components, home appliances, and light industrial products.",
+
+      "mamrung1": "The automatic vibrating bowl feeder is an efficient feeding solution that meets the automation needs of modern production. With fast part sorting and orientation capabilities, it is widely used in industries such as injection molding, electronics, metalworking, machinery, food, and cosmetics.\nFeatured products include: fully automatic vibrating bowl feeders, centrifugal/double centrifugal feeders, and engraved vibrating bowls for machining centers. Diverse designs and easy integration help improve productivity and optimize production costs.",
+      "mamrung2": "The automatic vibrating bowl feeder is an efficient feeding solution that meets the automation needs of modern production. With fast part sorting and orientation capabilities, it is widely used in industries such as injection molding, electronics, metalworking, machinery, food, and cosmetics.\nFeatured products include: fully automatic vibrating bowl feeders, centrifugal/double centrifugal feeders, and engraved vibrating bowls for machining centers. Diverse designs and easy integration help improve productivity and optimize production costs.",
+      "mamrung3": "The automatic vibrating bowl feeder is an efficient feeding solution that meets the automation needs of modern production. With fast part sorting and orientation capabilities, it is widely used in industries such as injection molding, electronics, metalworking, machinery, food, and cosmetics.\nFeatured products include: fully automatic vibrating bowl feeders, centrifugal/double centrifugal feeders, and engraved vibrating bowls for machining centers. Diverse designs and easy integration help improve productivity and optimize production costs.",
+      "mamrung4": "The automatic vibrating bowl feeder is an efficient feeding solution that meets the automation needs of modern production. With fast part sorting and orientation capabilities, it is widely used in industries such as injection molding, electronics, metalworking, machinery, food, and cosmetics.\nFeatured products include: fully automatic vibrating bowl feeders, centrifugal/double centrifugal feeders, and engraved vibrating bowls for machining centers. Diverse designs and easy integration help improve productivity and optimize production costs.",
+      "mamrung5": "The automatic vibrating bowl feeder is an efficient feeding solution that meets the automation needs of modern production. With fast part sorting and orientation capabilities, it is widely used in industries such as injection molding, electronics, metalworking, machinery, food, and cosmetics.\nFeatured products include: fully automatic vibrating bowl feeders, centrifugal/double centrifugal feeders, and engraved vibrating bowls for machining centers. Diverse designs and easy integration help improve productivity and optimize production costs.",
+      "mamrung6": "The automatic vibrating bowl feeder is an efficient feeding solution that meets the automation needs of modern production. With fast part sorting and orientation capabilities, it is widely used in industries such as injection molding, electronics, metalworking, machinery, food, and cosmetics.\nFeatured products include: fully automatic vibrating bowl feeders, centrifugal/double centrifugal feeders, and engraved vibrating bowls for machining centers. Diverse designs and easy integration help improve productivity and optimize production costs.",
+      "mamrung7": "The automatic vibrating bowl feeder is an efficient feeding solution that meets the automation needs of modern production. With fast part sorting and orientation capabilities, it is widely used in industries such as injection molding, electronics, metalworking, machinery, food, and cosmetics.\nFeatured products include: fully automatic vibrating bowl feeders, centrifugal/double centrifugal feeders, and engraved vibrating bowls for machining centers. Diverse designs and easy integration help improve productivity and optimize production costs.",
+      "mamrung8": "The automatic vibrating bowl feeder is an efficient feeding solution that meets the automation needs of modern production. With fast part sorting and orientation capabilities, it is widely used in industries such as injection molding, electronics, metalworking, machinery, food, and cosmetics.\nFeatured products include: fully automatic vibrating bowl feeders, centrifugal/double centrifugal feeders, and engraved vibrating bowls for machining centers. Diverse designs and easy integration help improve productivity and optimize production costs.",
+      "mamrung9": "The automatic vibrating bowl feeder is an efficient feeding solution that meets the automation needs of modern production. With fast part sorting and orientation capabilities, it is widely used in industries such as injection molding, electronics, metalworking, machinery, food, and cosmetics.\nFeatured products include: fully automatic vibrating bowl feeders, centrifugal/double centrifugal feeders, and engraved vibrating bowls for machining centers. Diverse designs and easy integration help improve productivity and optimize production costs.",
+      "mamrung10": "The automatic vibrating bowl feeder is an efficient feeding solution that meets the automation needs of modern production. With fast part sorting and orientation capabilities, it is widely used in industries such as injection molding, electronics, metalworking, machinery, food, and cosmetics.\nFeatured products include: fully automatic vibrating bowl feeders, centrifugal/double centrifugal feeders, and engraved vibrating bowls for machining centers. Diverse designs and easy integration help improve productivity and optimize production costs.",
+      "daychuyentruyendong1": "The dual-speed chain intelligent conveyor line is an advanced drive system designed to optimize operational efficiency in modern automated production lines. This system can be flexibly integrated with other equipment and technologies, contributing to improved productivity and product quality.",
+
+      "canhtayrobotcaplieu1": "The injection molding robot arm for loading and unloading is an automated device designed to support precise and stable material feeding and product removal during injection molding operations. This equipment helps increase productivity and ensure quality in the production process.",
+
+      "thietbilapraptudonghoatuychinh1": "Customized non-standard automated assembly equipment consists of solutions designed and manufactured according to specific technical requirements of each enterprise. These devices suit specialized production lines that do not follow existing standards, optimizing the assembly process.",
+
+      "maytudonghoathietketheoyeucau1": "Custom-designed non-standard automation equipment refers to highly flexible machinery systems developed based on specific characteristics and technical requirements of customers. These solutions effectively meet diverse and complex production needs.",
+
+      "maytudonghoathietketheoyeucau2": "Custom-designed non-standard automation equipment refers to highly flexible machinery systems developed based on specific characteristics and technical requirements of customers. These solutions effectively meet diverse and complex production needs.",
+
+      "robttruccautudongnapgap1": "The gantry robot arm for automatic loading and unloading is a type of robot with gantry structure capable of performing flexible and precise loading and unloading operations. This equipment is widely applied in automated production lines requiring continuous and stable operation."
+    }
   },
   "about": {
     "title": "About Us",
     "companyName": "BOCHUAN INTELLIGENT TECHNOLOGY COMPANY LIMITED",
-    "intro": "Bochuan Intelligent Technology Company Limitted specializes in providing intelligent technology solutions and advanced packaging equipment. With a strong commitment to quality and credibility, we accompany businesses on their journey toward automation and modernization.",
-    "focus": "We specialize in:",
+    "intro": "Bochuan Intelligent Technology Company Limited is a technology-driven enterprise specializing in the research, development, production, and manufacturing of non-standard intelligent automation and vibratory bowl machinery equipment.\nOur developed automatic feeding vibratory bowls, intelligent automatic assembly machines, and multiple labor-replacing research products are essential devices widely used in various industries including light industry, electronics, electrical tools, hardware, medical, component assembly, automatic stamping machines, plastic inserts, food packaging, office supplies, toys, and many others.\nThe company currently has teams dedicated to research, management, production, and sales, and is in a rapid growth phase, actively recruiting high-tech talent to help factories and individuals achieve the goals of machinery replacing manual labor, cost reduction, and efficiency improvement.",
+    "focus": "Our business scope includes:",
     "services": [
-      "Trading and maintenance of packaging machines, vibratory plates, industrial robots",
-      "Customized smart automated production lines",
-      "Supplying equipment: PLCs, inverters, servers, frequency converters",
-      "Industrial electrical devices and integrated solutions"
+      "Non-standard automation equipment",
+      "Smart production lines",
+      "Vibratory feeders (Automatic classification vibratory feeders)",
+      "Elevators (High lift hoists)",
+      "Carton sealing machines",
+      "Packaging machines",
+      "Palletizers",
+      "Mixing machines (Material stirring machines)",
+      "Automatic screw locking machines",
+      "Strapping machines (Packing equipment)",
+      "Shrink wrapping machines",
+      "Labeling machines",
+      "Case openers (Carton openers)",
+      "Automatic bagging machines",
+      "Automatic boxing machines",
+      "Automatic function testing machines",
+      "Assembly machines",
+      "Automatic packaging machines",
+      "Controllers",
+      "Electric motors",
+      "Frequency converters",
+      "PLC"
     ],
-    "commitment": "We always strive to bring customers the most optimal solutions, improving efficiency and accuracy in production processes."
+    "commitment": "We are dedicated to providing customers with optimal solutions that help reduce costs, increase efficiency, and improve accuracy in the production process."
   },
   "contact": {
     "title": "Contact Information",
@@ -48,5 +173,588 @@
     "socialTitle": "Social Media",
     "tiktok1": "TikTok Channel 1",
     "tiktok2": "TikTok Channel 2"
+  },
+  "mayDongThung6": {
+    "title": "Corner Carton Sealing Machine",
+    "model": "FX-7050J",
+    "range": "Carton Size Range",
+    "length": "Length (mm)",
+    "width": "Width (mm)",
+    "height": "Height (mm)",
+    "power": "Power Supply",
+    "pressure": "Compressed Air Pressure (MPa)",
+    "speed": "Sealing Speed",
+    "tape": "Applicable Tape / Width",
+    "machineSize": "Machine Dimensions (L × W × H mm)",
+
+    "value": {
+      "length": "L280–700",
+      "width": "200–500",
+      "height": "200–500",
+      "power": "220V, 50Hz, 1.0KW",
+      "pressure": "0.4–0.6 ",
+      "speed": "20 m/min",
+      "tape": "BOPP tape, kraft paper tape / 45–72mm",
+      "machineSize": "2400 × 1400 × H (table height + 900mm)"
+    }
+  },
+  "mayMoThung1": {
+    "title": "Double Door Carton Opener",
+    "spec": "Technical Specifications",
+    "model": "Model",
+    "data": [
+      {
+        "group": "Carton Opening Speed (cartons/min)",
+        "label": "",
+        "kx500": "5 - 15",
+        "kx650": "5 - 15"
+      },
+      {
+        "group": "Carton Size Range",
+        "label": "Length (mm)",
+        "kx500": "280 - 500",
+        "kx650": "280 - 650"
+      },
+      {
+        "group": "",
+        "label": "Width (mm)",
+        "kx500": "150 - 400",
+        "kx650": "150 - 500"
+      },
+      {
+        "group": "",
+        "label": "Height (mm)",
+        "kx500": "150 - 400",
+        "kx650": "150 - 500"
+      },
+      {
+        "group": "",
+        "label": "Total Power (kW)",
+        "kx500": "1",
+        "kx650": "1"
+      },
+      {
+        "group": "",
+        "label": "Pneumatic Pressure Required (MPa)",
+        "kx500": "0.6",
+        "kx650": "0.6"
+      },
+      {
+        "group": "",
+        "label": "Machine Weight (kg)",
+        "kx500": "350",
+        "kx650": "550"
+      },
+      {
+        "group": "",
+        "label": "Machine Dimensions (L × W × H mm)",
+        "kx500": "2000 × 1900 × 1400",
+        "kx650": "2300 × 2050 × 1550"
+      },
+      {
+        "group": "",
+        "label": "Power Supply",
+        "kx500": "220V 50Hz",
+        "kx650": "220V 50Hz"
+      },
+      {
+        "group": "",
+        "label": "Suitable Tape Type",
+        "kx500": "Width ≤ 60mm",
+        "kx650": "Width ≤ 60mm"
+      }
+    ]
+  },
+  "mayQuanMang1": {
+    "title": "Online Rotary Table Stretch Wrapping Machine",
+    "model": "CR-2000A – Anti-stretch system",
+    "data": [
+      { "label": "Power Supply" },
+      { "label": "Turntable Speed (rpm)" },
+      { "label": "Turntable Diameter" },
+      { "label": "Column Height (mm)" },
+      {
+        "label": "Effective Wrapping Height",
+        "value": "Column height minus 400"
+      },
+      { "label": "Table Height" },
+      { "label": "Max Load Capacity" },
+      {
+        "label": "Film Specifications",
+        "value": "LLDPE stretch film, width ≤500mm, outer diameter ≤φ280"
+      },
+      { "label": "Machine Dimensions (L × W × H mm)" }
+    ]
+  },
+
+  "mayQuanMang2": {
+    "title": "Rotary Table Stretch Wrapper CR-2000A Fixed",
+    "labels": {
+      "power": "Power Supply",
+      "speed": "Turntable Speed (rpm)",
+      "diameter": "Turntable Diameter",
+      "postHeight": "Post Height (mm)",
+      "workHeight": "Effective Working Height",
+      "load": "Maximum Load",
+      "film": "Applicable Film / Size",
+      "size": "Machine Dimensions (L × W × H, mm)"
+    },
+    "values": {
+      "power": "220V 50Hz 0.75KW",
+      "speed": "0-10",
+      "diameter": "φ1500 (φ1650, φ2000 optional)",
+      "postHeight": "2400 (2000, 2700, 3200)",
+      "workHeight": "Post height minus 400",
+      "load": "2000KG",
+      "film": "LLDPE stretch film / width ≤ 500, outer diameter ≤ φ280",
+      "size": "2440 × 1500 × 2475"
+    }
+  },
+
+  "mayQuanMang3": {
+    "title": "CR-2000B Pre-stretch Turntable Type Stretch Film Wrapping Machine",
+    "labels": {
+      "power": "Power Supply",
+      "speed": "Turntable Speed (rpm)",
+      "diameter": "Turntable Diameter",
+      "postHeight": "Post Height (mm)",
+      "workHeight": "Effective Height",
+      "load": "Load Capacity",
+      "film": "Applicable Film / Size",
+      "size": "Machine Dimensions (L × W × H, mm)"
+    },
+    "values": {
+      "powerB": "380V 50Hz 0.95KW",
+      "speedB": "0-10",
+      "diameterB": "1500 (φ1650, 2000 optional)",
+      "postHeightB": "2400 (2000, 2700, 3200 optional)",
+      "workHeightB": "Post height minus 400",
+      "loadB": "2000KG",
+      "filmB": "LLDPE stretch film / Width ≤ 500mm, Outer diameter ≤ φ280",
+      "sizeB": "2440 × 1500 × 2475"
+    }
+  },
+  "MayDanThung2": {
+    "title": "Automatic Carton Sealing Machine with Folding Flaps",
+    "models": {
+      "fx5050z": "FX-5050Z",
+      "fx5050zl": "FX-5050ZL"
+    },
+    "labels": {
+      "cartonSize": "Carton Size Range",
+      "power": "Power Supply",
+      "airPressure": "Required Air Pressure (MPa)",
+      "speed": "Sealing Speed",
+      "tape": "Compatible Tape Type / Width",
+      "machineSize": "Machine Dimensions (L × W × H mm)",
+      "length": "Length (mm)",
+      "width": "Width (mm)",
+      "height": "Height (mm)"
+    },
+    "values": {
+      "fx5050z": {
+        "length": "L200–550",
+        "width": "150–500",
+        "height": "120–500",
+        "power": "220V 50Hz 0.4KW",
+        "airPressure": "0.4 – 0.6",
+        "speed": "20 m/min",
+        "tape": "BOPP tape, kraft paper tape / 45–72mm",
+        "machineSize": "1700 × 900 × H (table height + 900)"
+      },
+      "fx5050zl": {
+        "length": "L200–550",
+        "width": "150–500",
+        "height": "120–500",
+        "power": "220V 50Hz 0.4KW",
+        "airPressure": "0.4 – 0.6",
+        "speed": "20 m/min",
+        "tape": "BOPP tape, kraft paper tape / 45–72mm",
+        "machineSize": "1700 × 900 × H (table height + 900)"
+      }
+    }
+  },
+
+  "TramRobot1": {
+    "title": "Collaborative Palletizing Robot Workstation",
+    "data": [
+      {
+        "label": "Palletizing speed (boxes/min)",
+        "wp20": "8–12 boxes/min",
+        "wp40": "6 boxes/min"
+      },
+      {
+        "group": "Pallet size",
+        "label": "Length (mm)",
+        "wp20": "1200",
+        "wp40": "1200"
+      },
+      {
+        "label": "Width (mm)",
+        "wp20": "1200",
+        "wp40": "1200"
+      },
+      {
+        "label": "Height (mm)",
+        "wp20": "150",
+        "wp40": "150"
+      },
+      {
+        "label": "Pallet placement type",
+        "wp20": "Manual / Left-Right",
+        "wp40": "Manual / Left-Right"
+      },
+      {
+        "label": "Robot payload",
+        "wp20": "Up to 30kg (including gripper)",
+        "wp40": "Up to 45kg (including gripper)"
+      },
+      {
+        "label": "Palletizing height",
+        "wp20": "≤2000mm (lift 600mm)",
+        "wp40": "≤2000mm (lift 600mm)"
+      },
+      {
+        "label": "Robot dimensions (mm)",
+        "wp20": "3410×1700×3100 (after lifting pallet)",
+        "wp40": "3410×1700×3100 (after lifting pallet)"
+      },
+      {
+        "label": "Air supply (user-provided)",
+        "wp20": "0.5–0.7Mpa, 200L/min",
+        "wp40": "0.5–0.7Mpa, 200L/min"
+      },
+      {
+        "label": "Power supply type",
+        "wp20": "AC380V, 50Hz ±5%; Control voltage: DC 24V",
+        "wp40": "AC380V, 50Hz ±5%; Control voltage: DC 24V"
+      },
+      {
+        "label": "Total power (kW)",
+        "wp20": "3kW",
+        "wp40": "4kW"
+      },
+      {
+        "label": "Weight (kg)",
+        "wp20": "Approx. 600kg",
+        "wp40": "Approx. 600kg"
+      }
+    ]
+  },
+  "maydannhantudong1": {
+    "title": "Automatic Labeling Machine",
+    "data": [
+      { "group": "Applicable Carton Size Range", "label": "Length (mm)" },
+      { "label": "Width (mm)" },
+      { "label": "Height (mm)" },
+      { "label": "Power Supply" },
+      { "label": "Conveyor Belt Speed" },
+      { "label": "Compatible Label Liner Material" },
+      { "label": "Machine Dimensions (L × W × H mm)" },
+      { "label": "Glassine release liner" },
+      { "label": "Conveyor Belt Speed", "value": "24m/min" }
+    ],
+    "note": "(depends on the specific machine size)"
+  },
+  "maydannhantudong2": {
+    "title": "Online Automatic Labeling Machine",
+    "data": [
+      {
+        "group": "Applicable Carton Size Range",
+        "label": "Width (mm)",
+        "value": "30-110"
+      },
+      { "label": "Length (mm)", "value": "20-300" },
+      { "label": "Power Supply", "value": "220V 50Hz 0.5KW" },
+      { "label": "Compressed Air Pressure (MPa)", "value": "0.4-0.6" },
+      { "label": "Labeling Speed", "value": "10-20 m/min" },
+      { "label": "Suitable Label Paper Material", "value": "Glassine Paper" },
+      {
+        "label": "Machine Dimensions (L × W × H mm)",
+        "value": "L800 × W700 × H1500 (mm)"
+      }
+    ],
+    "note": "(Depending on actual machine size)"
+  },
+  "maydaithung7": {
+    "title": "Automatic Packaging Machine",
+    "data": [
+      { "group": "Applicable Package Size", "label": "Height (mm)" },
+      { "label": "Width (mm)" },
+      { "label": "Power Supply" },
+      { "label": "Packaging Speed" },
+      {
+        "label": "Suitable Packing Strap / Specifications",
+        "value": "Double-sided PP / Width (8–15mm), Thickness (0.5–1.0mm)"
+      },
+      {
+        "label": "Machine Frame Size (mm)",
+        "value": "Width 800 × Height 600 (adjustable)"
+      },
+      { "label": "Worktable Height", "value": "750mm (adjustable)" },
+      { "label": "Machine Size (Length × Width × Height mm)" },
+      { "label": "≤ 2.5 seconds/cycle" }
+    ]
+  },
+
+  "maydaithung4": {
+    "title": "Automatic Strapping Machine",
+    "model": "DB-202",
+    "data": [
+      {
+        "group": "Applicable Package Size",
+        "items": [
+          { "label": "Width (mm)", "value": "210–700" },
+          { "label": "Height (mm)", "value": "80–500" }
+        ]
+      },
+      { "label": "Power Supply", "value": "380V 50Hz 1.25KW" },
+      { "label": "Strapping Speed", "value": "≤2.5 sec/cycle" },
+      {
+        "label": "Compatible Strapping / Specification",
+        "value": "PP Strap / Width (8–15mm), Thickness (0.5–1.0mm)"
+      },
+      { "label": "Frame Size (mm)", "value": "W800 × H600 (customizable)" },
+      { "label": "Working Table Height", "value": "450mm (customizable)" },
+      {
+        "label": "Machine Dimensions (L × W × H mm)",
+        "value": "L1900 × W650 × H1850"
+      }
+    ]
+  },
+
+  "maySietVit1": {
+    "data": [
+      {
+        "group": "Machine Structure",
+        "items": [
+          { "label": "Weight", "value": "200kg" },
+          { "label": "Dimensions", "value": "1800H × 800L × 600W (mm)" },
+          { "label": "Power Supply", "value": "AC 220V 50HZ" },
+          {
+            "label": "Power",
+            "value": "0.8KW (calculated based on tightening 8 screws)"
+          },
+          { "label": "Air Source", "value": ">0.5MPa" },
+          {
+            "label": "Air Consumption",
+            "value": "30m³/hour (calculated based on 8 shafts)"
+          },
+          { "label": "Frame", "value": "Steel tabletop, aluminum alloy frame" }
+        ]
+      },
+      {
+        "group": "Control Description",
+        "items": [
+          { "label": "Main Program Control", "value": "PLC Control" },
+          {
+            "label": "Human-Machine Interface",
+            "value": "LCD display, showing and adjusting parameters"
+          },
+          { "label": "Machine Start", "value": "Manual and automatic modes" },
+          {
+            "label": "Alarm",
+            "value": "Alarm light flashing and buzzer sounding"
+          }
+        ]
+      },
+      {
+        "group": "Screw Feeder",
+        "items": [
+          {
+            "label": "Automatic Screw Feeder",
+            "value": "XZ-1 model automatic screw feeder"
+          },
+          {
+            "label": "Number of Automatic Screw Feeders",
+            "value": "Equipped according to screw quantity"
+          }
+        ]
+      },
+      {
+        "group": "Screwdriver",
+        "items": [
+          {
+            "label": "Servo Motor",
+            "value": "Selectable according to customer requirements"
+          }
+        ]
+      },
+      {
+        "group": "Connection",
+        "items": [
+          {
+            "label": "Universal Joint Drive Shaft Assembly",
+            "value": "Equipped as required"
+          }
+        ]
+      },
+      {
+        "group": "Applicable Scope",
+        "items": [
+          {
+            "label": "Applicable Product Size",
+            "value": "Customized according to customer product"
+          }
+        ]
+      },
+      {
+        "group": "Inspection Items",
+        "items": [
+          {
+            "label": "Torque Detection of Electric Screwdriver",
+            "value": "Yes"
+          },
+          { "label": "Screw Thread Slip Detection", "value": "Yes" },
+          { "label": "Screw Missing Detection", "value": "Yes" },
+          { "label": "Screw Feeding Miss Detection", "value": "Yes" },
+          {
+            "label": "Handling of Poor Tightening",
+            "value": "Alarm light and buzzer alert"
+          }
+        ]
+      }
+    ]
+  },
+
+  "mayDongGoiCat1": {
+    "header1": "Automatic L-Type Sealing & Cutting Machine",
+
+    "kichThuocSanPhamPhuHop": "Applicable Product Size",
+    "daiCao1": "Length + Height (H<150mm)",
+    "daiCao2": "Length + Height (H≥150mm)",
+
+    "kichThuocDaoCat": "Sealing Blade Size",
+    "daiXRong": "Length × Width (mm)",
+
+    "dienNguon": "Power Supply",
+
+    "apSuatKhiNen": "Compressed Air Pressure (MPa)",
+    "apSuatValue": "0.6–0.8",
+
+    "tocDoDongGoi": "Packaging Speed",
+    "tocDoValue": "15m/min",
+
+    "mangPhuHop": "Applicable Film",
+    "mangCoNhiet": "POF Shrink Film",
+
+    "kichThuocMay": "Machine Dimensions (L×W×H mm)",
+
+    "fql450": {
+      "daiCao1": "<500mm",
+      "daiCao2": "<400mm",
+      "kichThuocDaoCat": "550×450",
+      "dienNguon": "220V 50HZ 1.35KW",
+      "kichThuocMay": "1650×800×1450"
+    },
+    "fql550": {
+      "daiCao1": "<600mm",
+      "daiCao2": "<500mm",
+      "kichThuocDaoCat": "650×550",
+      "dienNguon": "220V 50HZ 1.5KW",
+      "kichThuocMay": "1750×900×1450"
+    }
+  },
+
+  "MayDongGoiCat2": {
+    "header": "Automatic Edge Sealer",
+
+    "phamViKichThuoc": "Product Size Range",
+    "daiCao1": "Length + Height (H < 150mm)",
+    "daiCao2": "Length + Height (H ≥ 150mm)",
+
+    "kichThuocDaoCat": "Sealing Knife Size",
+    "daiXRong": "Length × Width (mm)",
+
+    "nguonDien": "Power Supply",
+    "apSuatKhiNen": "Compressed Air Pressure (MPa)",
+    "apSuatValue": "0.6 - 0.8",
+    "tocDoDongGoi": "Packing Speed",
+    "tocDoValue": "15m/min",
+
+    "mangPhuHop": "Applicable Film",
+    "mangCoNhiet": "POF Heat Shrink Film",
+
+    "kichThuocMay": "Machine Dimensions (L × W × H mm)",
+
+    "bf450": {
+      "daiCao1": "No limit",
+      "daiCao2": "<400mm",
+      "kichThuocDaoCat": "No limit × 450",
+      "nguonDien": "220V 50Hz 1.35KW",
+      "kichThuocMay": "1650 × 800 × 1450"
+    },
+    "bf550": {
+      "daiCao1": "No limit",
+      "daiCao2": "<500mm",
+      "kichThuocDaoCat": "No limit × 550",
+      "nguonDien": "220V 50Hz 1.5KW",
+      "kichThuocMay": "1750 × 900 × 1450"
+    }
+  },
+
+  "mayCoMangNhietPhunKhi": {
+    "title": "Hot Air Shrink Tunnel Machine",
+    "dienNguon": "Power Supply",
+    "kichThuocSanPham": "Product Size (W×H)",
+    "taiTrongBangTai": "Conveyor Load Capacity",
+    "tocDoBangTai": "Conveyor Speed",
+    "chatLieuBangTai": "Conveyor Material",
+    "kichThuocBuongCo": "Shrink Tunnel Size (L×W×H mm)",
+    "kichThuocMay": "Machine Dimensions (L×W×H mm)",
+    "loaiMangPhuHop": "Applicable Film Types",
+    "bsp6040": {
+      "dienNguon": "380V 50HZ 18KW",
+      "kichThuocSanPham": "550×350mm",
+      "taiTrongBangTai": "25KG",
+      "tocDoBangTai": "0–15m/min",
+      "chatLieuBangTai": "Chain, Steel Mesh",
+      "kichThuocBuongCo": "1800×600×400",
+      "kichThuocMay": "2500×900×1650",
+      "loaiMangPhuHop": "POF / PE / PVC Shrink Film"
+    },
+    "bsp7050": {
+      "dienNguon": "380V 50HZ 24KW",
+      "kichThuocSanPham": "650×450mm",
+      "taiTrongBangTai": "25KG",
+      "tocDoBangTai": "0–15m/min",
+      "chatLieuBangTai": "Chain, Steel Mesh",
+      "kichThuocBuongCo": "1800×700×500",
+      "kichThuocMay": "2500×1000×1750",
+      "loaiMangPhuHop": "POF / PE / PVC Shrink Film"
+    }
+  },
+
+  "mayCoMangNhietTuanHoan": {
+    "title": "Internal Circulation Heat Shrink Machine",
+    "nguonDien": "Power Supply",
+    "kichThuocSanPham": "Product Size (W×H)",
+    "taiTrongBangTai": "Conveyor Load",
+    "tocDoBangTai": "Conveyor Speed",
+    "chatLieuBangTai": "Conveyor Material",
+    "kichThuocBuongCo": "Shrinking Chamber Size (L×W×H mm)",
+    "kichThuocMay": "Machine Dimensions (L×W×H mm)",
+    "loaiMangPhuHop": "Suitable Film",
+
+    "bsn4020": {
+      "nguonDien": "380V 50HZ 9KW",
+      "kichThuocSanPham": "350×150mm",
+      "taiTrongBangTai": "10kg",
+      "tocDoBangTai": "0-15m/min",
+      "chatLieuBangTai": "Chain roller, mesh belt",
+      "kichThuocBuongCo": "1200×400×200mm",
+      "kichThuocMay": "1600×560×660mm",
+      "loaiMangPhuHop": "POF / PE / PVC heat shrink film"
+    },
+    "bsn5030": {
+      "nguonDien": "380V 50HZ 11KW",
+      "kichThuocSanPham": "450×250mm",
+      "taiTrongBangTai": "10kg",
+      "tocDoBangTai": "0-15m/min",
+      "chatLieuBangTai": "Chain roller, mesh belt",
+      "kichThuocBuongCo": "1200×500×300mm",
+      "kichThuocMay": "1600×650×760mm",
+      "loaiMangPhuHop": "POF / PE / PVC heat shrink film"
+    }
   }
 }

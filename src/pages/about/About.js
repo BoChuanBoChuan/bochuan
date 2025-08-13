@@ -1,6 +1,7 @@
 import { useTranslation } from "react-i18next";
 import companyImage from "../../assets/img/cty.jpg";
 import { useFadeInOnScroll } from "../../hook/useFadeInOnScroll.js";
+import robot from "../../assets/img/maymocthaytheconnguoi.png"
 
 export default function About() {
   const { t } = useTranslation();
@@ -28,7 +29,8 @@ export default function About() {
       </h1>
 
       {/* Nội dung chính */}
-      <div className="flex flex-col items-center gap-10 md:flex-row md:gap-16">
+     <div className="flex flex-col items-start gap-10 md:flex-row md:gap-16">
+
         {/* Ảnh công ty */}
         <div className="w-full md:w-1/2 overflow-hidden rounded-lg shadow-lg aspect-[4/3]">
           <img
@@ -39,7 +41,6 @@ export default function About() {
           />
         </div>
 
-        
         {/* Văn bản giới thiệu */}
         <div className="w-full space-y-5 leading-relaxed text-justify text-gray-700 md:w-1/2 max-w-prose md:text-left hyphens-auto">
           <p className="text-xl font-semibold text-indigo-700">
@@ -49,7 +50,8 @@ export default function About() {
           <p>{t("about.intro")}</p>
           <p>{t("about.focus")}</p>
 
-          <ul className="pl-5 space-y-2 text-gray-800 list-disc list-inside">
+          {/* Dịch vụ */}
+          <ul className="grid grid-cols-1 pl-5 space-y-1 text-gray-800 list-disc list-inside md:grid-cols-2 gap-x-6 gap-y-1">
             {t("about.services", { returnObjects: true }).map((item, index) => (
               <li key={index}>{item}</li>
             ))}
