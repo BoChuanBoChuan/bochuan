@@ -4,6 +4,10 @@ import { MdLocalPhone } from "react-icons/md";
 import TikTokIcon from "../../components/TikTokIcon.jsx";
 import { useFadeInOnScroll } from "../../hook/useFadeInOnScroll.js";
 
+import { FaFacebook, FaWeixin } from "react-icons/fa";
+
+import { SiZalo } from "react-icons/si"; // Zalo
+
 export default function Contact() {
   const { t } = useTranslation();
 
@@ -65,26 +69,65 @@ export default function Contact() {
           <FaShareAlt className="text-blue-700" />
           {t("contact.socialTitle")}
         </h2>
-        <div className="flex flex-col items-center justify-center gap-6 sm:flex-row sm:gap-12">
+
+        <div className="flex flex-col items-start justify-center gap-6 sm:items-center sm:flex-col">
+          {/* Facebook */}
+          <a
+            href="https://www.facebook.com/bochuanvn/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="flex items-center gap-3 transition hover:opacity-80"
+          >
+            <FaFacebook className="w-6 h-6" color="#1877F2" />
+            <span className="text-lg font-medium text-blue-700">
+              Bochuan Bochuan (博川)
+            </span>
+          </a>
+
+          {/* Zalo */}
+          <div className="flex items-center gap-3 text-blue-700">
+            <div className="p-1 border-2 border-[#008EEA] rounded-md bg-white">
+              <SiZalo size={28} color="#008EEA" />
+            </div>
+            <span className="text-lg font-medium">Zalo: 0908181488</span>
+          </div>
+
+          {/* WeChat */}
+          <div className="flex items-center gap-3">
+            <FaWeixin className="w-6 h-6" color="#07C160" />
+            <span className="text-lg font-medium text-blue-700">
+              WeChat: bczdp3330（微信号）
+            </span>
+          </div>
+
+          {/* TikTok 1 */}
           <a
             href="https://www.tiktok.com/@bochuan.cntdh"
             target="_blank"
             rel="noopener noreferrer"
-            className="flex items-center gap-3 text-blue-700 transition hover:text-blue-900 hover:underline hover:scale-105"
+            className="flex items-center gap-3 transition hover:opacity-80"
           >
-            <TikTokIcon size={32} color="#000" />
-            <span className="text-lg font-medium">{t("contact.tiktok1")}</span>
+            <TikTokIcon size={32} />
+            <span className="text-lg font-medium text-blue-700">
+              {t("contact.tiktok1")}
+            </span>
           </a>
+
+          {/* TikTok 2 */}
           <a
             href="https://www.tiktok.com/@bochuan.bochuan"
             target="_blank"
             rel="noopener noreferrer"
-            className="flex items-center gap-3 text-blue-700 transition hover:text-blue-900 hover:underline hover:scale-105"
+            className="flex items-center gap-3 transition hover:opacity-80"
           >
-            <TikTokIcon size={32} color="#000" />
-            <span className="text-lg font-medium">{t("contact.tiktok2")}</span>
+            <TikTokIcon size={32} />
+            <span className="text-lg font-medium text-blue-700">
+              {t("contact.tiktok2")}
+            </span>
           </a>
         </div>
+
+     
       </section>
 
       {/* Ghé thăm chúng tôi */}

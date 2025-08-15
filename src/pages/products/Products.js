@@ -7,10 +7,9 @@ export default function Products() {
   const { t } = useTranslation();
   const navigate = useNavigate();
 
-  // Danh mục lớn
   const mainCategories = [
     {
-      key: "nonStandardAutomation", // i18n: products.nonStandardAutomation
+      key: "nonStandardAutomation",
       subCategories: [
         { type: "maytudonghoathietketheoyeucau", key: "maytudonghoathietketheoyeucau" },
         { type: "thietbilapraptudonghoatuychinh", key: "thietbilapraptudonghoatuychinh" },
@@ -26,7 +25,7 @@ export default function Products() {
       ],
     },
     {
-      key: "standardAutomation", // i18n: products.standardAutomation
+      key: "standardAutomation",
       subCategories: [
         { type: "tramrobot", key: "tramrobot" },
         { type: "maydannhantudong", key: "maydannhantudong" },
@@ -38,7 +37,7 @@ export default function Products() {
       ],
     },
     {
-      key: "vibratingBowl", // i18n: products.vibratingBowl
+      key: "vibratingBowl",
       subCategories: [
         { type: "mamrung", key: "mamrung" },
       ],
@@ -54,6 +53,13 @@ export default function Products() {
       {mainCategories.map((mainCat) => {
         const [sectionRef, sectionVisible] = useFadeInOnScroll();
 
+        // Gộp toàn bộ sản phẩm thuộc các subCategory
+        const allDevicesInCategory = devices.filter((d) =>
+          mainCat.subCategories.some((subCat) => subCat.type === d.type)
+        );
+
+        if (allDevicesInCategory.length === 0) return null;
+
         return (
           <section
             key={mainCat.key}
@@ -63,52 +69,37 @@ export default function Products() {
             }`}
           >
             {/* Tiêu đề danh mục lớn */}
-            <h2 className="pb-2 mb-8 text-2xl font-bold text-center text-blue-500 border-b-2 border-blue-300">
-              {t(`products.${mainCat.key}`)}
-            </h2>
+           <h2 className="pl-3 mb-6 text-xl font-semibold text-blue-600 border-l-4 border-blue-300">
+  {t(`products.${mainCat.key}`)}
+</h2>
 
-            {/* Các danh mục nhỏ bên trong */}
-            {mainCat.subCategories.map((subCat) => {
-              const filtered = devices.filter((d) => d.type === subCat.type);
 
-              if (filtered.length === 0) return null;
+            {/* Danh sách sản phẩm đã gộp */}
+            <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
+              {allDevicesInCategory.map((device) => {
+                const [cardRef, cardVisible] = useFadeInOnScroll(0.15);
 
-              return (
-                <div key={subCat.key} className="mb-10">
-                  {/* Tiêu đề danh mục nhỏ */}
-                  <h3 className="mb-4 text-xl font-bold text-gray-800">
-                    {t(`products.${subCat.key}`)}
-                  </h3>
-
-                  {/* Danh sách sản phẩm */}
-                  <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
-                    {filtered.map((device) => {
-                      const [cardRef, cardVisible] = useFadeInOnScroll(0.15);
-
-                      return (
-                        <div
-                          key={device.id}
-                          ref={cardRef}
-                          onClick={() => navigate(`/products/${device.id}`)}
-                          className={`transition-all duration-700 ease-out transform cursor-pointer p-4 text-center bg-white border rounded shadow hover:shadow-md hover:scale-105 ${
-                            cardVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-8"
-                          }`}
-                        >
-                          <img
-                            src={device.image}
-                            alt={device.name}
-                            className="w-full h-[180px] object-contain mb-3"
-                          />
-                          <h4 className="text-base font-semibold text-gray-800">
-                            {t(`products.${device.name}`)}
-                          </h4>
-                        </div>
-                      );
-                    })}
+                return (
+                  <div
+                    key={device.id}
+                    ref={cardRef}
+                    onClick={() => navigate(`/products/${device.id}`)}
+                    className={`transition-all duration-700 ease-out transform cursor-pointer p-4 text-center bg-white border rounded shadow hover:shadow-md hover:scale-105 ${
+                      cardVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-8"
+                    }`}
+                  >
+                    <img
+                      src={device.image}
+                      alt={device.name}
+                      className="w-full h-[180px] object-contain mb-3"
+                    />
+                    <h4 className="text-base font-semibold text-gray-800">
+                      {t(`products.${device.name}`)}
+                    </h4>
                   </div>
-                </div>
-              );
-            })}
+                );
+              })}
+            </div>
           </section>
         );
       })}

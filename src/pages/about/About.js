@@ -61,7 +61,19 @@ export default function About() {
             <strong className="text-indigo-600">{t("about.commitment")}</strong>
           </p>
         </div>
+
+        
       </div>
+         <div className="mt-10 text-right">
+          <a
+            href="/catalog.pdf"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-block px-6 py-3 font-semibold text-white transition bg-blue-700 rounded hover:bg-blue-800"
+          >
+            Catalog/目录
+          </a>
+        </div>
     </section>
   );
 }
