@@ -96,7 +96,7 @@ export default function Contact() {
           <div className="flex items-center gap-3">
             <FaWeixin className="w-6 h-6" color="#07C160" />
             <span className="text-lg font-medium text-blue-700">
-              WeChat: bczdp3330（微信号）
+              WeChat: 156 5795 3330（微信号）
             </span>
           </div>
 
@@ -165,3 +165,4 @@ export default function Contact() {
     </div>
   );
 }
+
