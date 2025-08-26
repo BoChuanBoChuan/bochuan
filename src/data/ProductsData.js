@@ -42,6 +42,15 @@ import mamrung7 from "../assets/img/product/mamrung7.png";
 import mamrung8 from "../assets/img/product/mamrung8.png";
 import mamrung9 from "../assets/img/product/mamrung9.png";
 import mamrung10 from "../assets/img/product/mamrung10.png";
+import mamrung11 from "../assets/img/product/mamrung11.png";
+import mamrung12 from "../assets/img/product/mamrung12.png";
+import mamrung13 from "../assets/img/product/mamrung13.png";
+import mamrung14 from "../assets/img/product/mamrung14.png";
+import mamrung15 from "../assets/img/product/mamrung15.png";
+import mamrung16 from "../assets/img/product/mamrung16.png";
+import mamrung17 from "../assets/img/product/mamrung17.png";
+import mamrung18 from "../assets/img/product/mamrung18.png";
+
 
 import daychuyentruyendong1 from "../assets/img/product/daychuyentruyendong.png";
 import canhtayrobotcaplieu1 from "../assets/img/product/canhtayrobotcaplieuvalaysanpham.png";
@@ -351,14 +360,14 @@ export const devices = [
   },
   {
     id: 40,
-    name: "mamrung",
+    name: "mamrung1",
     type: "mamrung",
     image: mamrung7,
     descriptionKey: "products.descriptions.mamrung7",
   },
   {
     id: 41,
-    name: "mamrung",
+    name: "mamrung2",
     type: "mamrung",
     image: mamrung8,
     descriptionKey: "products.descriptions.mamrung8",
@@ -372,7 +381,7 @@ export const devices = [
   },
   {
     id: 43,
-    name: "mamrung",
+    name: "mamrung2",
     type: "mamrung",
     image: mamrung10,
     descriptionKey: "products.descriptions.mamrung10",
@@ -440,5 +449,54 @@ export const devices = [
     type: "daychuyendanthung",
     image: daychuyendanthung,
     descriptionKey: "products.descriptions.daychuyendanthung",
+  },
+  {
+    id: 53,
+    name: "mamrung3",
+    type: "mamrung",
+    image: mamrung11,
+    descriptionKey: "products.descriptions.mamrung11",
+  },{
+    id: 54,
+    name: "mamrung4",
+    type: "mamrung",
+    image: mamrung12,
+    descriptionKey: "products.descriptions.mamrung12",
+  },{
+    id: 55,
+    name: "mamrung5",
+    type: "mamrung",
+    image: mamrung13,
+    descriptionKey: "products.descriptions.mamrung13",
+  },{
+    id: 56,
+    name: "mamrung6",
+    type: "mamrung",
+    image: mamrung14,
+    descriptionKey: "products.descriptions.mamrung14",
+  },{
+    id: 57,
+    name: "mamrung7",
+    type: "mamrung",
+    image: mamrung15,
+    descriptionKey: "products.descriptions.mamrung15",
+  },{
+    id: 58,
+    name: "mamrung8",
+    type: "mamrung",
+    image: mamrung16,
+    descriptionKey: "products.descriptions.mamrung16",
+  },{
+    id: 59,
+    name: "mamrung9",
+    type: "mamrung",
+    image: mamrung17,
+    descriptionKey: "products.descriptions.mamrung17",
+  },{
+    id: 60,
+    name: "mamrung10",
+    type: "mamrung",
+    image: mamrung18,
+    descriptionKey: "products.descriptions.mamrung18",
   },
 ];

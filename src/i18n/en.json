@@ -17,6 +17,9 @@
     "description": "Bochuan Intelligent Technology Company Limited is a technology-driven enterprise specializing in the research, development, production, and manufacturing of non-standard intelligent automation and vibratory bowl machinery equipment.\nOur developed automatic feeding vibratory bowls, intelligent automatic assembly machines, and multiple labor-replacing research products are essential devices widely used in various industries including light industry, electronics, electrical tools, hardware, medical, component assembly, automatic stamping machines, plastic inserts, food packaging, office supplies, toys, and many others.\nThe company currently has teams dedicated to research, management, production, and sales, and is in a rapid growth phase, actively recruiting high-tech talent to help factories and individuals achieve the goals of machinery replacing manual labor, cost reduction, and efficiency improvement.",
     "description_img": "Machines replacing humans in high-risk positions, reducing labor and optimizing production."
   },
+  "product": {
+    "mainProducts": "Main Product Lines"
+  },
   "products": {
     "title": "Products",
 
@@ -46,7 +49,6 @@
     "maysietvittudongtoado1": "Large Single-Platform Coordinate Screw Locking Machine",
     "maysietvittudongtoado2": "Large Double-Platform Coordinate Screw Locking Machine",
     "maysietvittudongtoado3": "Standalone Vertical Screw Locking Machine with Single Feeder",
-    "mamrung": "Vibratory bowl feeder",
 
     "mayquanmangtudong1": "Rotary Table Stretch Wrapping Machine",
     "mayquanmangtudong2": "Integrated Conveyor Rotary Table Automatic Wrapping Machine",
@@ -63,6 +65,17 @@
 
     "daychuyenphanloai": "Automated sorting production line - non-standard custom design",
     "daychuyendanthung": "Intelligent carton sealing conveyor line at the final stage",
+    "mamrung": "Vibratory bowl feeder",
+    "mamrung1": "Vibratory Bowl Feeder for CNC Machining Center",
+    "mamrung2": "Centrifugal Vibratory Bowl",
+    "mamrung3": "Vibratory Bowl Feeder for Dowel Pins",
+  "mamrung4": "Vibratory Bowl Feeder for Screws",
+  "mamrung5": "Vibratory Bowl Feeder for Cap Nuts",
+  "mamrung6": "Vibratory Bowl Feeder for Hex Nuts",
+  "mamrung7": "Vibratory Bowl Feeder for Steel Rods",
+  "mamrung8": "Vibratory Bowl Feeder for Stainless Steel Components",
+  "mamrung9": "Vibratory Bowl Feeder for Steel Plates",
+  "mamrung10": "Vibratory Bowl Feeder for I-Shaped Plastic Parts",
 
     "descriptions": {
       "daychuyendanthung": "The intelligent carton sealing conveyor line is a crucial part of the final stage in the product packaging process. This system is designed to automatically seal cartons quickly, accurately, and uniformly, saving time, reducing labor, and minimizing errors caused by manual operations.\nWith stable operation and flexible integration with other equipment in the production line, the intelligent sealing system helps improve overall efficiency, ensuring products are securely and aesthetically packaged before transportation or storage.",
@@ -113,10 +126,10 @@
       "mamrung4": "The automatic vibrating bowl feeder is an efficient feeding solution that meets the automation needs of modern production. With fast part sorting and orientation capabilities, it is widely used in industries such as injection molding, electronics, metalworking, machinery, food, and cosmetics.\nFeatured products include: fully automatic vibrating bowl feeders, centrifugal/double centrifugal feeders, and engraved vibrating bowls for machining centers. Diverse designs and easy integration help improve productivity and optimize production costs.",
       "mamrung5": "The automatic vibrating bowl feeder is an efficient feeding solution that meets the automation needs of modern production. With fast part sorting and orientation capabilities, it is widely used in industries such as injection molding, electronics, metalworking, machinery, food, and cosmetics.\nFeatured products include: fully automatic vibrating bowl feeders, centrifugal/double centrifugal feeders, and engraved vibrating bowls for machining centers. Diverse designs and easy integration help improve productivity and optimize production costs.",
       "mamrung6": "The automatic vibrating bowl feeder is an efficient feeding solution that meets the automation needs of modern production. With fast part sorting and orientation capabilities, it is widely used in industries such as injection molding, electronics, metalworking, machinery, food, and cosmetics.\nFeatured products include: fully automatic vibrating bowl feeders, centrifugal/double centrifugal feeders, and engraved vibrating bowls for machining centers. Diverse designs and easy integration help improve productivity and optimize production costs.",
-      "mamrung7": "The automatic vibrating bowl feeder is an efficient feeding solution that meets the automation needs of modern production. With fast part sorting and orientation capabilities, it is widely used in industries such as injection molding, electronics, metalworking, machinery, food, and cosmetics.\nFeatured products include: fully automatic vibrating bowl feeders, centrifugal/double centrifugal feeders, and engraved vibrating bowls for machining centers. Diverse designs and easy integration help improve productivity and optimize production costs.",
-      "mamrung8": "The automatic vibrating bowl feeder is an efficient feeding solution that meets the automation needs of modern production. With fast part sorting and orientation capabilities, it is widely used in industries such as injection molding, electronics, metalworking, machinery, food, and cosmetics.\nFeatured products include: fully automatic vibrating bowl feeders, centrifugal/double centrifugal feeders, and engraved vibrating bowls for machining centers. Diverse designs and easy integration help improve productivity and optimize production costs.",
+      "mamrung7": "A precision vibratory feeder designed to orient and supply small parts into CNC machining centers, improving automation efficiency and machining accuracy.\nThis device minimizes manual errors and increases productivity in industrial production lines.",
+      "mamrung8": "Utilizes centrifugal force to separate and align parts at high speed, ideal for fast-paced automated assembly systems.\nDurable design with seamless integration into automation lines, ensuring stable and continuous operation.",
       "mamrung9": "The automatic vibrating bowl feeder is an efficient feeding solution that meets the automation needs of modern production. With fast part sorting and orientation capabilities, it is widely used in industries such as injection molding, electronics, metalworking, machinery, food, and cosmetics.\nFeatured products include: fully automatic vibrating bowl feeders, centrifugal/double centrifugal feeders, and engraved vibrating bowls for machining centers. Diverse designs and easy integration help improve productivity and optimize production costs.",
-      "mamrung10": "The automatic vibrating bowl feeder is an efficient feeding solution that meets the automation needs of modern production. With fast part sorting and orientation capabilities, it is widely used in industries such as injection molding, electronics, metalworking, machinery, food, and cosmetics.\nFeatured products include: fully automatic vibrating bowl feeders, centrifugal/double centrifugal feeders, and engraved vibrating bowls for machining centers. Diverse designs and easy integration help improve productivity and optimize production costs.",
+      "mamrung10": "Utilizes centrifugal force to separate and align parts at high speed, ideal for fast-paced automated assembly systems.\nDurable design with seamless integration into automation lines, ensuring stable and continuous operation.",
       "daychuyentruyendong1": "The dual-speed chain intelligent conveyor line is an advanced drive system designed to optimize operational efficiency in modern automated production lines. This system can be flexibly integrated with other equipment and technologies, contributing to improved productivity and product quality.",
 
       "canhtayrobotcaplieu1": "The injection molding robot arm for loading and unloading is an automated device designed to support precise and stable material feeding and product removal during injection molding operations. This equipment helps increase productivity and ensure quality in the production process.",

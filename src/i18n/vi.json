@@ -15,14 +15,15 @@
     "description": "Bochuan Intelligent Technology Company Limited là đơn vị chuyên cung cấp giải pháp công nghệ thông minh và thiết bị đóng gói tiên tiến. Với cam kết đặt chất lượng và uy tín lên hàng đầu, chúng tôi đồng hành cùng doanh nghiệp trong hành trình tự động hoá và hiện đại hoá sản xuất. Công ty chuyên nghiên cứu, sản xuất và chế tạo các thiết bị cơ khí tự động hóa, thông minh phi tiêu chuẩn như mâm rung cấp phôi, máy lắp ráp tự động và các hệ thống thay thế lao động thủ công. Các sản phẩm do Bochuan phát triển là những thiết bị không thể thiếu trong dây chuyền sản xuất hiện đại, được ứng dụng rộng rãi trong nhiều ngành nghề như công nghiệp nhẹ, điện tử, thiết bị điện, dụng cụ cầm tay, cơ khí, y tế, lắp ráp linh kiện, máy dập tự động, linh kiện nhựa, đóng gói thực phẩm, văn phòng phẩm, đồ chơi và nhiều lĩnh vực khác.",
     "description_img": "Hình ảnh máy móc thay thế con người ở các vị trí nguy hiểm cao, giảm bớt nhân công, tối ưu sản xuất"
   },
+  "product": {
+    "mainProducts": "Các dòng sản phẩm chính"
+  },
   "products": {
     "title": "Các sản phẩm",
     "detail_title": "Chi tiết sản phẩm",
     "nonStandardAutomation": "Thiết bị tự động hoá phi tiêu chuẩn",
     "standardAutomation": "Tự động hoá máy tiêu chuẩn",
     "vibratingBowl": "Mâm rung",
-
-
 
     "maycatdan": "Máy cắt dán",
     "maydaithung": "Máy đai thùng",
@@ -44,7 +45,6 @@
     "maysietvittudongtoado1": "Máy siết vít toạ độ bàn đơn loại lớn",
     "maysietvittudongtoado2": "Máy siết vít toạ độ bàn đôi loại lớn",
     "maysietvittudongtoado3": "Máy siết vít dạng đứng cấp liệu đơn",
-    "mamrung": "Mâm rung",
 
     "mayquanmangtudong1": "Máy quấn màng kiểu mâm xoay",
     "mayquanmangtudong2": "Máy quấn màng tự động dạng mâm xoay tích hợp dây chuyền",
@@ -66,6 +66,17 @@
 
     "daychuyenphanloai": "Dây chuyền phân loại tự động – thiết kế phi tiêu chuẩn",
     "daychuyendanthung": " Dây chuyền dán thùng thông minh ở công đoạn cuối",
+    "mamrung": "Mâm rung",
+    "mamrung1": "Mâm rung khắc cho trung tâm gia công",
+    "mamrung2": "Mâm rung ly tâm",
+    "mamrung3": "Mâm rung chốt định vị",
+    "mamrung4": "Mâm rung vít",
+    "mamrung5": "Mâm rung nắp chụp",
+    "mamrung6": "Mâm rung đai ốc",
+    "mamrung7": "Mâm rung trụ sắt",
+    "mamrung8": "Mâm rung linh kiện inox",
+    "mamrung9": "Mâm rung lá thép",
+    "mamrung10": "Mâm rung chi tiết nhựa chữ I",
 
     "descriptions": {
       "daychuyendanthung": "Dây chuyền dán thùng thông minh là một phần quan trọng trong công đoạn cuối của quy trình đóng gói sản phẩm. Hệ thống này được thiết kế để tự động thực hiện việc dán kín các thùng carton một cách nhanh chóng, chính xác và đồng đều, giúp tiết kiệm thời gian, giảm nhân lực và hạn chế lỗi do thao tác thủ công.\nNhờ khả năng vận hành ổn định và tích hợp linh hoạt với các thiết bị khác trong dây chuyền sản xuất, hệ thống dán thùng thông minh góp phần nâng cao hiệu suất tổng thể, đảm bảo sản phẩm được đóng gói chắc chắn và thẩm mỹ trước khi chuyển đến khâu vận chuyển hoặc lưu kho.",
@@ -113,10 +124,18 @@
       "mamrung4": "Thiết bị mâm rung tự động là giải pháp cấp liệu hiệu quả, đáp ứng nhu cầu tự động hóa trong sản xuất hiện đại. Với khả năng phân loại và định hướng linh kiện nhanh chóng, thiết bị được ứng dụng rộng rãi trong các ngành: máy ép nhựa, công nghiệp điện tử, kim loại, công nghiệp cơ khí, công nghiệp thực phẩm và mỹ phẩm. \nCác dòng sản phẩm nổi bật gồm: mâm rung tự động hoàn toàn, mâm rung ly tâm / ly tâm kép, mâm rung khắc cho trung tâm gia công. Thiết kế đa dạng, dễ tích hợp, giúp nâng cao năng suất và tối ưu chi phí sản xuất.",
       "mamrung5": "Thiết bị mâm rung tự động là giải pháp cấp liệu hiệu quả, đáp ứng nhu cầu tự động hóa trong sản xuất hiện đại. Với khả năng phân loại và định hướng linh kiện nhanh chóng, thiết bị được ứng dụng rộng rãi trong các ngành: máy ép nhựa, công nghiệp điện tử, kim loại, công nghiệp cơ khí, công nghiệp thực phẩm và mỹ phẩm. \nCác dòng sản phẩm nổi bật gồm: mâm rung tự động hoàn toàn, mâm rung ly tâm / ly tâm kép, mâm rung khắc cho trung tâm gia công. Thiết kế đa dạng, dễ tích hợp, giúp nâng cao năng suất và tối ưu chi phí sản xuất.",
       "mamrung6": "Thiết bị mâm rung tự động là giải pháp cấp liệu hiệu quả, đáp ứng nhu cầu tự động hóa trong sản xuất hiện đại. Với khả năng phân loại và định hướng linh kiện nhanh chóng, thiết bị được ứng dụng rộng rãi trong các ngành: máy ép nhựa, công nghiệp điện tử, kim loại, công nghiệp cơ khí, công nghiệp thực phẩm và mỹ phẩm. \nCác dòng sản phẩm nổi bật gồm: mâm rung tự động hoàn toàn, mâm rung ly tâm / ly tâm kép, mâm rung khắc cho trung tâm gia công. Thiết kế đa dạng, dễ tích hợp, giúp nâng cao năng suất và tối ưu chi phí sản xuất.",
-      "mamrung7": "Thiết bị mâm rung tự động là giải pháp cấp liệu hiệu quả, đáp ứng nhu cầu tự động hóa trong sản xuất hiện đại. Với khả năng phân loại và định hướng linh kiện nhanh chóng, thiết bị được ứng dụng rộng rãi trong các ngành: máy ép nhựa, công nghiệp điện tử, kim loại, công nghiệp cơ khí, công nghiệp thực phẩm và mỹ phẩm. \nCác dòng sản phẩm nổi bật gồm: mâm rung tự động hoàn toàn, mâm rung ly tâm / ly tâm kép, mâm rung khắc cho trung tâm gia công. Thiết kế đa dạng, dễ tích hợp, giúp nâng cao năng suất và tối ưu chi phí sản xuất.",
-      "mamrung8": "Thiết bị mâm rung tự động là giải pháp cấp liệu hiệu quả, đáp ứng nhu cầu tự động hóa trong sản xuất hiện đại. Với khả năng phân loại và định hướng linh kiện nhanh chóng, thiết bị được ứng dụng rộng rãi trong các ngành: máy ép nhựa, công nghiệp điện tử, kim loại, công nghiệp cơ khí, công nghiệp thực phẩm và mỹ phẩm. \nCác dòng sản phẩm nổi bật gồm: mâm rung tự động hoàn toàn, mâm rung ly tâm / ly tâm kép, mâm rung khắc cho trung tâm gia công. Thiết kế đa dạng, dễ tích hợp, giúp nâng cao năng suất và tối ưu chi phí sản xuất.",
+      "mamrung7": "Mâm rung chính xác, được thiết kế để định hướng và cấp phôi nhỏ vào trung tâm gia công CNC, giúp nâng cao hiệu quả tự động hóa và độ chính xác sản xuất.\nThiết bị này giúp giảm thiểu lỗi thao tác và tăng năng suất trong các dây chuyền sản xuất công nghiệp.",
+      "mamrung8": "Mâm rung ly tâm sử dụng lực ly tâm để phân loại và sắp xếp linh kiện nhanh chóng, phù hợp cho các quy trình lắp ráp tự động tốc độ cao.\nThiết kế bền bỉ, dễ dàng tích hợp vào hệ thống tự động hóa, đảm bảo vận hành liên tục và ổn định.",
       "mamrung9": "Thiết bị mâm rung tự động là giải pháp cấp liệu hiệu quả, đáp ứng nhu cầu tự động hóa trong sản xuất hiện đại. Với khả năng phân loại và định hướng linh kiện nhanh chóng, thiết bị được ứng dụng rộng rãi trong các ngành: máy ép nhựa, công nghiệp điện tử, kim loại, công nghiệp cơ khí, công nghiệp thực phẩm và mỹ phẩm. \nCác dòng sản phẩm nổi bật gồm: mâm rung tự động hoàn toàn, mâm rung ly tâm / ly tâm kép, mâm rung khắc cho trung tâm gia công. Thiết kế đa dạng, dễ tích hợp, giúp nâng cao năng suất và tối ưu chi phí sản xuất.",
-      "mamrung10": "Thiết bị mâm rung tự động là giải pháp cấp liệu hiệu quả, đáp ứng nhu cầu tự động hóa trong sản xuất hiện đại. Với khả năng phân loại và định hướng linh kiện nhanh chóng, thiết bị được ứng dụng rộng rãi trong các ngành: máy ép nhựa, công nghiệp điện tử, kim loại, công nghiệp cơ khí, công nghiệp thực phẩm và mỹ phẩm. \nCác dòng sản phẩm nổi bật gồm: mâm rung tự động hoàn toàn, mâm rung ly tâm / ly tâm kép, mâm rung khắc cho trung tâm gia công. Thiết kế đa dạng, dễ tích hợp, giúp nâng cao năng suất và tối ưu chi phí sản xuất.",
+      "mamrung10": "Mâm rung ly tâm sử dụng lực ly tâm để phân loại và sắp xếp linh kiện nhanh chóng, phù hợp cho các quy trình lắp ráp tự động tốc độ cao.\nThiết kế bền bỉ, dễ dàng tích hợp vào hệ thống tự động hóa, đảm bảo vận hành liên tục và ổn định.",
+      "mamrung11": "Thiết kế chuyên biệt để định vị và cấp chính xác chốt định vị, đảm bảo ổn định trong quy trình lắp ráp tự động và gia công cơ khí.",
+      "mamrung12": "Cung cấp vít đa dạng với độ chính xác cao, tối ưu hóa hiệu suất vận hành liên tục trên dây chuyền tự động hóa công nghiệp.",
+      "mamrung13": "Mâm rung chuyên dụng cấp nắp chụp, đảm bảo định hướng chính xác và cấp liệu liên tục cho sản xuất quy mô lớn.",
+      "mamrung14": "Tối ưu cấp liệu đai ốc đa giác với độ chính xác và ổn định cao, phù hợp cho hệ thống lắp ráp tự động tiên tiến.",
+      "mamrung15": "Thiết kế tối ưu để cấp phôi trụ sắt, đáp ứng yêu cầu vận hành liên tục và chính xác trong môi trường sản xuất công nghiệp.",
+      "mamrung16": "Cung cấp linh kiện thép không gỉ với khả năng chống ăn mòn vượt trội, đảm bảo độ chính xác trong từng chi tiết sản xuất.",
+      "mamrung17": "Hiệu quả trong việc cấp các chi tiết dạng lá thép và tấm mỏng, phù hợp dây chuyền sản xuất tốc độ cao với yêu cầu khắt khe về chất lượng.",
+      "mamrung18": "Đặc chế cho việc cấp linh kiện nhựa hình chữ I, phổ biến trong lắp ráp thiết bị điện tử và các sản phẩm nhựa kỹ thuật cao.",
       "daychuyentruyendong1": "Dây chuyền thông minh truyền động xích tốc độ kép là hệ thống truyền động tiên tiến được thiết kế nhằm tối ưu hóa hiệu suất vận hành trong các dây chuyền sản xuất tự động hóa hiện đại. Hệ thống này có khả năng tích hợp linh hoạt với các thiết bị và công nghệ khác, góp phần nâng cao năng suất và chất lượng sản phẩm.",
 
       "canhtayrobotcaplieu1": "Cánh tay robot cấp liệu và lấy sản phẩm cho máy ép nhựa là thiết bị tự động được thiết kế để hỗ trợ các thao tác cấp liệu và lấy sản phẩm một cách chính xác và ổn định trong quá trình vận hành máy ép nhựa. Thiết bị này góp phần tăng năng suất và đảm bảo chất lượng trong quy trình sản xuất.",
