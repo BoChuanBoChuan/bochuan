@@ -11,7 +11,7 @@
     "contact": "请拨打热线电话：0908413588 - 0908181488，或发送邮件至 bochuan02@gmail.com 以获得咨询服务"
   },
   "home": {
-    "title": "欢迎来到 BOCHUAN",
+    "title": "欢迎来到博川",
     "description": "博川智能自动化科技有限公司是一家专业从事非标智能化、自动化及振动盘机械设备等研发、生产和制造的科技型企业。\n本公司研发的自动送料振动盘和自动装配机智能设备以及多种可替代人工的科研产品，是各类企业制造过程中不可或缺的重要设备，广泛应用于轻工业、电子电器、电动工具、五金、医疗、零件组装、自动冲床、塑料插件、食品包装、办公用品、玩具等多个行业。\n公司现拥有科研、管理、生产和销售团队，目前正处于快速发展阶段，急需引进高技术人才，主要致力于帮助工厂及个人实现机械替代人工、降低成本并提升效率的目标。",
     "description_img": "在高危岗位上由机器替代人工，减少人力，优化生产。"
   },
@@ -20,7 +20,56 @@
   },
   "products": {
     "title": "各类产品",
+    "titles": {
+      "maycatdan": "切割与封口机",
+      "maydaithung": "打包机",
+      "maydanthung": "纸箱封箱机",
+      "maymothung": "开箱机",
+      "robot6truc": "六轴关节机器人",
+      "mayquanmangtudong": "缠绕膜机",
+      "thietbitramlamviecrobot": "协作码垛机器人工作站设备",
+      "maydannhantudong": "自 动 化 贴 标 机 ",
+      "maysietvitbantudong": "半 自 动 流 水 线 锁 螺 丝 机",
+      "maydonggoicattudong": "自动封切机",
+      "maydonggoicattudong1": "自动L型封切机",
+      "maydonggoicattudong2": "M自动边封机",
 
+      "mayconhiettudong": "自动热收缩机",
+      "mayconhiettudongkieuphunkhi": "喷气式热收缩机",
+      "mayconhiettudongkieutuanhoantrong": "内循环热收缩机",
+
+      "maysietvittudongtoado": "坐标式自动锁螺丝机",
+      "maysietvittudongtoado1": "大型单平台坐标式锁螺丝机",
+      "maysietvittudongtoado2": "大型双平台坐标式锁螺丝机",
+      "maysietvittudongtoado3": "单供料落地式锁螺丝机",
+
+      "mayquanmangtudong1": "旋转盘式缠绕机",
+      "mayquanmangtudong2": "集成流水线旋转盘式自动缠绕机",
+      "maydanthung1": "角边封箱机",
+      "maydanthung2": "自动折盖封箱机",
+      "maymothung1": "双翼自动开箱机",
+      "maydannhantudong1": "在线式自动贴标机",
+
+      "daychuyentruyendong": "倍速链智能流水线",
+      "canhtayrobotcaplieu": "注塑机机械手上下料",
+      "thietbilapraptudonghoatuychinh": "非标自动化组装类",
+      "maytudonghoathietketheoyeucau": "可定制非标自动化设备",
+      "robttruccautudongnapgap": "桁架机械手自动上下料",
+      "daychuyenphanloai": "自动化分拣生产线非标定制",
+      "daychuyendanthung": " 后 段 智 能 封 箱 流 水 线",
+      "tramrobot": "协作码垛机器人工作站设备",
+      "mamrung": " 振动盘 ",
+      "mamrung1": "加工中心雕刻振动盘",
+      "mamrung2": "离心振动盘",
+      "mamrung3": "销钉振动盘",
+      "mamrung4": "螺丝振动盘",
+      "mamrung5": "螺帽振动盘",
+      "mamrung6": "螺母振动盘",
+      "mamrung7": "铁柱振动盘",
+      "mamrung8": "不锈钢件振动盘",
+      "mamrung9": "铁片振动盘",
+      "mamrung10": "工字塑胶件振动盘"
+    },
     "nonStandardAutomation": "非标自动化设备",
     "standardAutomation": "标准机自动化",
     "vibratingBowl": "振  动  盘",
@@ -188,7 +237,7 @@
     "contactInfoTitle": "联系方式",
     "contactInfo": "请拨打热线电话：0908413588 - 0908181488 或发送邮件至 bochuan02@gmail.com 以获得咨询服务。",
     "visitUsTitle": "欢迎莅临我们的公司",
-    "address": "我们的地址：越南同奈省安福社第5村C区第12组。我们诚挚欢迎您的到来！",
+    "address": "我们的地址：越南同奈省隆城县安福社第5村C区第12组。我们诚挚欢迎您的到来！",
     "socialTitle": "社交媒体",
     "tiktok1": "TikTok 频道 1",
     "tiktok2": "TikTok 频道 2"
@@ -730,4 +779,3 @@
     }
   }
 }
-

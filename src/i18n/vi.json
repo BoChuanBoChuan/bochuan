@@ -20,6 +20,60 @@
   },
   "products": {
     "title": "Các sản phẩm",
+    "titles": {
+      "maycatdan": "Máy cắt dán",
+      "maydaithung": "Máy đai thùng",
+      "maydanthung": "Máy dán thùng",
+      "maymothung": "Máy mở thùng",
+      "robot6truc": "Robot khớp nối 6 trục",
+      "mayquanmangtudong": "Máy quấn màng tự động",
+
+      "tramrobot": "Thiết bị trạm làm việc robot cộng tác xếp hàng",
+      "maydannhantudong": "Máy dán nhãn tự động",
+      "maysietvitbantudong": "Máy siết vít bán tự động",
+      "maydonggoicattudong": "Máy đóng gói cắt tự động",
+      "maydonggoicattudong1": "Máy hàn cắt kiểu L tự động",
+      "maydonggoicattudong2": "Máy hàn mép bên tự động",
+      "mayconhiettudong": "Máy co nhiệt tự động",
+      "mayconhiettudongkieuphunkhi": "Máy co nhiệt tự động kiểu phun khí",
+      "mayconhiettudongkieutuanhoantrong": "Máy co nhiệt tự động kiểu tuần hoàn trong",
+      "maysietvittudongtoado": "Máy siết vít tự động kiểu tọa độ",
+      "maysietvittudongtoado1": "Máy siết vít toạ độ bàn đơn loại lớn",
+      "maysietvittudongtoado2": "Máy siết vít toạ độ bàn đôi loại lớn",
+      "maysietvittudongtoado3": "Máy siết vít dạng đứng cấp liệu đơn",
+
+      "mayquanmangtudong1": "Máy quấn màng kiểu mâm xoay",
+      "mayquanmangtudong2": "Máy quấn màng tự động dạng mâm xoay tích hợp dây chuyền",
+      "maydanthung1": "Máy dán thùng dán góc",
+      "maydanthung2": "Máy dán thùng gấp nắp tự động",
+      "maymothung1": "Máy mở thùng 2 cánh",
+      "maydannhantudong1": "Máy dán nhãn tự động trực tuyến",
+
+      "daychuyentruyendong": "Dây chuyền thông minh truyền động xích tốc độ kép",
+      "canhtayrobotcaplieu": "Cánh tay robot cấp liệu và lấy sản phẩm cho máy ép nhựa",
+      "thietbilapraptudonghoatuychinh": "Các thiết bị lắp ráp tự động hoá tuỳ chỉnh theo yêu cầu riêng biệt của khách hàng",
+      "maytudonghoathietketheoyeucau": "Máy móc tự động hoá được thiết kế riêng theo yêu cầu cụ thể của khách hàng hoặc dây chuyền sản xuất",
+      "robttruccautudongnapgap": "Robot trục cầu tự động nạp – gắp sản phẩm",
+      "daychuyentruyendong1": "Dây chuyền thông minh truyền động xích tốc độ kép",
+      "canhtayrobotcaplieu1": "Cánh tay robot cấp liệu và lấy sản phẩm cho máy ép nhựa",
+
+      "maytudonghoathietketheoyeucau2": "Máy móc tự động hoá được thiết kế riêng theo yêu cầu cụ thể của khách hàng hoặc dây chuyền sản xuất",
+      "robttruccautudongnapgap1": "Robot trục cầu tự động nạp – gắp sản phẩm",
+
+      "daychuyenphanloai": "Dây chuyền phân loại tự động – thiết kế phi tiêu chuẩn",
+      "daychuyendanthung": " Dây chuyền dán thùng thông minh ở công đoạn cuối",
+      "mamrung": "Mâm rung",
+      "mamrung1": "Mâm rung khắc cho trung tâm gia công",
+      "mamrung2": "Mâm rung ly tâm",
+      "mamrung3": "Mâm rung chốt định vị",
+      "mamrung4": "Mâm rung vít",
+      "mamrung5": "Mâm rung nắp chụp",
+      "mamrung6": "Mâm rung đai ốc",
+      "mamrung7": "Mâm rung trụ sắt",
+      "mamrung8": "Mâm rung linh kiện inox",
+      "mamrung9": "Mâm rung lá thép",
+      "mamrung10": "Mâm rung chi tiết nhựa chữ I"
+    },
     "detail_title": "Chi tiết sản phẩm",
     "nonStandardAutomation": "Thiết bị tự động hoá phi tiêu chuẩn",
     "standardAutomation": "Tự động hoá máy tiêu chuẩn",
@@ -188,7 +242,7 @@
     "contactInfoTitle": "Thông tin liên hệ",
     "contactInfo": "Hãy gọi tới số Hotline: 0908413588 - 0908181488 hoặc gửi email tới bochuan02@gmail.com để được tư vấn.",
     "visitUsTitle": "Hãy ghé thăm chúng tôi",
-    "address": "Địa chỉ của chúng tôi là tại tổ 12, khu C, ấp 5, xã An Phước, Đồng Nai, Việt Nam. Chúng tôi rất mong được đón chào quý khách!",
+    "address": "Địa chỉ của chúng tôi là tại tổ 12, khu C, ấp 5, xã An Phước, Long Thành, Đồng Nai, Việt Nam. Chúng tôi rất mong được đón chào quý khách!",
     "socialTitle": "Mạng xã hội",
     "tiktok1": "Kênh TikTok 1",
     "tiktok2": "Kênh TikTok 2"
@@ -795,4 +849,3 @@
     }
   }
 }
-
