@@ -2,34 +2,63 @@
 <html lang="vi">
   <head>
     <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="theme-color" content="#000000" />
+
     <title>CTY TNHH CÔNG NGHỆ THÔNG MINH BOCHUAN</title>
 
-    <!-- Favicon đầy đủ -->
+    <!-- SEO Meta -->
+    <meta
+      name="description"
+      content="Bochuan Intelligent Technology Company Limited là đơn vị chuyên cung cấp giải pháp công nghệ thông minh và thiết bị đóng gói tiên tiến."
+    />
+    <meta
+      name="keywords"
+      content="Bochuan, công nghệ thông minh, máy móc đóng gói, giải pháp tự động hóa, thiết bị công nghiệp, Đồng Nai"
+    />
+    <meta name="author" content="CTY TNHH CÔNG NGHỆ THÔNG MINH BOCHUAN" />
+
+    <!-- Favicon -->
     <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="shortcut icon" href="/favicon.ico" />
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href="/apple-touch-icon.png"
+    />
     <link rel="manifest" href="/site.webmanifest" />
 
-    <!-- Thẻ mô tả cho SEO -->
-    <meta name="description" content="CTY TNHH CÔNG NGHỆ THÔNG MINH BOCHUAN" />
-
-    <!-- Open Graph (Facebook, Zalo, LinkedIn...) -->
-    <meta property="og:title" content="CTY TNHH CÔNG NGHỆ THÔNG MINH BOCHUAN" />
-    <meta property="og:description" content="Bochuan Intelligent Technology Company Limited là đơn vị chuyên cung cấp giải pháp công nghệ thông minh và thiết bị đóng gói tiên tiến." />
+    <!-- Open Graph -->
+    <meta
+      property="og:title"
+      content="CTY TNHH CÔNG NGHỆ THÔNG MINH BOCHUAN"
+    />
+    <meta
+      property="og:description"
+      content="Bochuan Intelligent Technology Company Limited là đơn vị chuyên cung cấp giải pháp công nghệ thông minh và thiết bị đóng gói tiên tiến."
+    />
     <meta property="og:image" content="https://bochuanvn.com/1.png" />
     <meta property="og:url" content="https://bochuanvn.com/" />
     <meta property="og:type" content="website" />
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="CTY TNHH CÔNG NGHỆ THÔNG MINH BOCHUAN" />
-    <meta name="twitter:description" content="Bochuan Intelligent Technology Company Limited là đơn vị chuyên cung cấp giải pháp công nghệ thông minh và thiết bị đóng gói tiên tiến. " />
+    <meta
+      name="twitter:title"
+      content="CTY TNHH CÔNG NGHỆ THÔNG MINH BOCHUAN"
+    />
+    <meta
+      name="twitter:description"
+      content="Bochuan Intelligent Technology Company Limited là đơn vị chuyên cung cấp giải pháp công nghệ thông minh và thiết bị đóng gói tiên tiến."
+    />
     <meta name="twitter:image" content="https://bochuanvn.com/1.png" />
 
-    <!-- CSS để ẩn thẻ h1 mà vẫn cho SEO đọc được -->
+    <!-- Preload logo -->
+    <link rel="preload" as="image" href="https://bochuanvn.com/1.png" />
+
+    <!-- CSS sr-only -->
     <style>
       .sr-only {
         position: absolute;
@@ -43,11 +72,62 @@
         border: 0;
       }
     </style>
+
+    <!-- Structured Data: Organization -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "CTY TNHH CÔNG NGHỆ THÔNG MINH BOCHUAN",
+        "alternateName": "Bochuan Intelligent Technology Company Limited",
+        "url": "https://bochuanvn.com",
+        "logo": "https://bochuanvn.com/1.png",
+        "description": "Bochuan Intelligent Technology Company Limited là đơn vị chuyên cung cấp giải pháp công nghệ thông minh và thiết bị đóng gói tiên tiến.",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Tổ 12, khu C, ấp 5, xã An Phước",
+          "addressLocality": "Long Thành",
+          "addressRegion": "Đồng Nai",
+          "addressCountry": "VN"
+        },
+        "contactPoint": [
+          {
+            "@type": "ContactPoint",
+            "telephone": "+84-908-413-588",
+            "contactType": "customer support",
+            "areaServed": "VN",
+            "availableLanguage": ["Vietnamese", "Chinese"]
+          }
+        ],
+        "sameAs": [
+          "https://www.facebook.com/people/Công-ty-TNHH-Công-Nghệ-Thông-Minh-Bochuan/61581168650718"
+        ]
+      }
+    </script>
+
+    <!-- Structured Data: Breadcrumb (Trang chủ) -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Trang chủ",
+            "item": "https://bochuanvn.com/"
+          }
+        ]
+      }
+    </script>
   </head>
 
   <body>
-    <!-- ✅ Thẻ h1 ẩn cho SEO -->
-    <h1 class="sr-only">CTY TNHH CÔNG NGHỆ THÔNG MINH BOCHUAN - Giải pháp công nghệ thông minh và thiết bị đóng gói tiên tiến</h1>
+    <!-- ✅ Thẻ H1 ẩn -->
+    <h1 class="sr-only">
+      CTY TNHH CÔNG NGHỆ THÔNG MINH BOCHUAN - Giải pháp công nghệ thông minh và
+      thiết bị đóng gói tiên tiến
+    </h1>
 
     <noscript>CTY TNHH CÔNG NGHỆ THÔNG MINH BOCHUAN XIN CHÀO.</noscript>
     <div id="root"></div>
